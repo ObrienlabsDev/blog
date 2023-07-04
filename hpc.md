@@ -13,3 +13,4 @@ My current machine build is based on the Intel i9-13900K 8/16 core and an NVIDIA
 
 # Appendix A: Build your local HPC
 # Links
+- https://sites.google.com/a/nirmauni.ac.in/cudacodes/ongoing-projects/automatic-conversion-of-source-code-for-c-to-cuda-c/converted-programs/calculate-value-of-pi
