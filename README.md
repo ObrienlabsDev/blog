@@ -6,6 +6,7 @@
 
 - [Serverless Reference Architecture](https://github.com/ObrienlabsDev/blog/wiki/Serverless-Reference-Architecture)
 - [Google Maps API based Javascript Web Application](https://github.com/ObrienlabsDev/blog/wiki/Google-Maps-API-based-Javascript-Web-Application)
+- [Google Cloud Landing Zone Comparisons](https://github.com/ObrienlabsDev/blog/wiki/Google-Cloud-Landing-Zone-Comparisons)
 
 ## Historical
 - http://wiki.obrienlabs.cloud
