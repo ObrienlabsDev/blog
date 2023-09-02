@@ -1,6 +1,7 @@
 # ObrienLabs Blogs and Wikis
 - [wiki](https://github.com/ObrienlabsDev/blog/wiki)
-- [High Performance Computing](https://github.com/ObrienlabsDev/blog/wiki/High-Performance-Computing)
+Extraction)
+- [CUDA based - High Performance Computing - LLM Training - Ground to GCP Cloud Hybrid](https://github.com/ObrienlabsDev/blog/wiki/CUDA-based-%E2%80%90-High-Performance-Computing-%E2%80%90-LLM-Training-%E2%80%90-Ground-to-GCP-Cloud-Hybrid)
 - [Biometric Heart Rate Streaming from Mobile Devices](https://github.com/ObrienlabsDev/blog/wiki/Biometric-Dual-Heart-Rate-Streaming-from-Mobile-Devices)
 - [Drone Streaming Extraction](https://github.com/ObrienlabsDev/blog/wiki/Drone-Streaming-Extraction)
 
