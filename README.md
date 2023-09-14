@@ -9,6 +9,7 @@ Extraction)
 - [Google Maps API based Javascript Web Application](https://github.com/ObrienlabsDev/blog/wiki/Google-Maps-API-based-Javascript-Web-Application)
 - [Google Cloud Landing Zone Comparisons](https://github.com/ObrienlabsDev/blog/wiki/Google-Cloud-Landing-Zone-Comparisons)
 - [Google Cloud Earth Engine (formerly Keyhole) - HPC Integration](https://github.com/ObrienlabsDev/blog/wiki/Google-Cloud-Earth-Engine-%E2%80%90-HPC-integration)
+- [Calling Google Cloud APIs privately from on prem using Private Service Connect](https://github.com/ObrienlabsDev/blog/wiki/Calling-Google-Cloud-APIs-privately-from-on-prem-using-Private-Service-Connect)
 
 ## Historical
 - http://wiki.obrienlabs.cloud
