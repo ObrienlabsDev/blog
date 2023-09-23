@@ -10,6 +10,8 @@ Extraction)
 - [Google Cloud Landing Zone Comparisons](https://github.com/ObrienlabsDev/blog/wiki/Google-Cloud-Landing-Zone-Comparisons)
 - [Google Cloud Earth Engine (formerly Keyhole) - HPC Integration](https://github.com/ObrienlabsDev/blog/wiki/Google-Cloud-Earth-Engine-%E2%80%90-HPC-integration)
 - [Calling Google Cloud APIs privately from on prem using Private Service Connect](https://github.com/ObrienlabsDev/blog/wiki/Calling-Google-Cloud-APIs-privately-from-on-prem-using-Private-Service-Connect)
+- [Duet AI for LLM based Acceleration in GCP](https://github.com/ObrienlabsDev/blog/wiki/Using-Duet-AI-for-LLM-based-Acceleration-in-GCP)
+- [Machine Learning on Local or Cloud based NVidia or Apple GPUs](https://github.com/ObrienlabsDev/blog/wiki/Machine-Learning-on-local-or-Cloud-based-NVidia-or-Apple-GPUs)
 
 ## Historical
 - http://wiki.obrienlabs.cloud
