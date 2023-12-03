@@ -13,9 +13,8 @@ Extraction)
 - [Duet AI for LLM based Acceleration in GCP](https://github.com/ObrienlabsDev/blog/wiki/Using-Duet-AI-for-LLM-based-Acceleration-in-GCP)
 - [Machine Learning on Local or Cloud based NVidia or Apple GPUs](https://github.com/ObrienlabsDev/blog/wiki/Machine-Learning-on-local-or-Cloud-based-NVidia-or-Apple-GPUs)
 
-## Historical
-- http://wiki.obrienlabs.cloud
 
 ## References
+- Google Project Gemini - https://blog.google/technology/ai/google-io-2023-keynote-sundar-pichai/#ai-products is multimodal https://www.techopedia.com/definition/multimodal-ai-multimodal-artificial-intelligence - https://medium.com/@bedros-p/gemini-is-coming-to-makersuite-so-are-stubbs-32248f3924aa -  https://developers.googleblog.com/2023/09/make-with-makersuite-part1-introduction.html
 
 
