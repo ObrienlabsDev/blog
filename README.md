@@ -13,6 +13,7 @@ Extraction)
 - [Google Gemini LLM](https://github.com/ObrienlabsDev/blog/wiki/Google-Gemini-LLM)
 - [Duet AI for LLM based Acceleration in GCP](https://github.com/ObrienlabsDev/blog/wiki/Using-Duet-AI-for-LLM-based-Acceleration-in-GCP)
 - [Machine Learning on Local or Cloud based NVidia or Apple GPUs](https://github.com/ObrienlabsDev/blog/wiki/Machine-Learning-on-local-or-Cloud-based-NVidia-or-Apple-GPUs)
+- [LLM and Machine Learning Custom Hardware](https://github.com/ObrienlabsDev/blog/wiki/LLM-and-Machine-Learning-Custom-Hardware)
 
 
 ## References
