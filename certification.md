@@ -7,4 +7,4 @@
 - 6h Perform Foundational Data, ML, AI Tasks in Google Cloud
 https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.google/course_templates/631
 - 13h ML Ops Pipelines https://www.cloudskillsboost.google/course_templates/191
-- 15h Google Machine Learning Crash Course
+- 15h Google Machine Learning Crash Course https://developers.google.com/machine-learning/crash-course
