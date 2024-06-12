@@ -1,3 +1,7 @@
+# obrienlabs.medium.com
+- https://obrienlabs.medium.com/running-the-larger-google-gemma-7b-35gb-llm-for-7x-inference-performance-gain-8b63019523bb
+- https://obrienlabs.medium.com/google-gemma-7b-and-2b-llm-models-are-now-available-to-developers-as-oss-on-hugging-face-737f65688f0d
+- https://obrienlabs.medium.com/running-the-70b-llama-2-llm-locally-on-metal-via-llama-cpp-on-mac-studio-m2-ultra-32b3179e9cbe
 # ObrienLabs Blogs and Wikis
 - [wiki](https://github.com/ObrienlabsDev/blog/wiki)
 Extraction)
