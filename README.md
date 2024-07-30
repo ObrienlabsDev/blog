@@ -1,5 +1,6 @@
 # LinkedIn
 - https://www.linkedin.com/in/michaelobrien-developer
+- https://youtube.com/@obrienlabs?si=Aec73pKFgd8vfDNc
 # obrienlabs.medium.com
 - https://obrienlabs.medium.com/running-the-larger-google-gemma-7b-35gb-llm-for-7x-inference-performance-gain-8b63019523bb
 - https://obrienlabs.medium.com/google-gemma-7b-and-2b-llm-models-are-now-available-to-developers-as-oss-on-hugging-face-737f65688f0d
