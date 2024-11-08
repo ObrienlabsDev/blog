@@ -11,3 +11,9 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 
 # NVIDIA Deep Learning Institute
 - https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web
+
+# Cisco
+- https://www.netacad.com/catalogs/learn
+- https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html#accordion-126b124179-item-7335c2761d
+- https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html
+- https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
