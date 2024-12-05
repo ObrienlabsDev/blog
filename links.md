@@ -17,3 +17,6 @@ We still need the older Yahoo that I remember from the late 90's - a tree of cur
 - https://github.com/ilyaresh/coding-for-kids
 - https://careers.cern/alljobs?title=developer
 - 
+
+## Todo
+- https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/
