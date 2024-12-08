@@ -17,3 +17,9 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html#accordion-126b124179-item-7335c2761d
 - https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
+
+## Linux Foundation Certification for Kubernetes
+- https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+## Apple Swift Certification
+- https://developer.apple.com/learn/
+- https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
