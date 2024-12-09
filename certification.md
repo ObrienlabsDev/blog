@@ -19,7 +19,11 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
 
 ## Linux Foundation Certification for Kubernetes
-- https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+- 1 - KCNA https://training.linuxfoundation.org/wp-content/uploads/2024/10/KCNA_CurriculumPath.pdf
+- 2 - KCSA https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/
+- 3 - CKAD https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKAD_CurriculumPath.pdf
+- 4 - CKA https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKA_CurriculumPath.pdf https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+- 5 - CSA https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKS_CurriculumPath.pdf
 ## Apple Swift Certification
 - https://developer.apple.com/learn/
 - https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
