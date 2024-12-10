@@ -23,8 +23,9 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 - 2 - KCSA https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/
 - 3 - CKAD https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKAD_CurriculumPath.pdf
 - 4 - CKA https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKA_CurriculumPath.pdf https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
-- 2025 https://training.linuxfoundation.org/certified-kubernetes-administrator-cka-program-changes/
+- 202501 https://training.linuxfoundation.org/certified-kubernetes-administrator-cka-program-changes/
 - 5 - CKS https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKS_CurriculumPath.pdf
+- 202410 https://training.linuxfoundation.org/cks-program-changes/
 ## Apple Swift Certification
 - https://developer.apple.com/learn/
 - https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
