@@ -26,6 +26,9 @@ Extraction)
 - [LLM and Machine Learning Custom Hardware](https://github.com/ObrienlabsDev/blog/wiki/LLM-and-Machine-Learning-Custom-Hardware)
 - [70B LLaMA 2 LLM local inference on metal via llama.cpp on Mac Studio M2 Ultra - LinkedIn](https://www.linkedin.com/posts/michaelobrien-developer_running-70b-llama-2-llm-locally-metal-3-via-activity-7160125112103370753-dya9?utm_source=share&utm_medium=member_desktop) - [70B LLaMA 2 LLM local inference on metal via llama.cpp on Mac Studio M2 Ultra - Medium](https://obrienlabs.medium.com/running-the-70b-llama-2-llm-locally-on-metal-via-llama-cpp-on-mac-studio-m2-ultra-32b3179e9cbe)
 
+## Projects
+- https://github.com/ObrienlabsDev/pipeline
+
 ## References
 - Google Project Gemini - https://blog.google/technology/ai/google-io-2023-keynote-sundar-pichai/#ai-products is multimodal https://www.techopedia.com/definition/multimodal-ai-multimodal-artificial-intelligence - https://medium.com/@bedros-p/gemini-is-coming-to-makersuite-so-are-stubbs-32248f3924aa -  https://developers.googleblog.com/2023/09/make-with-makersuite-part1-introduction.html
 - https://blog.google/technology/ai/google-gemini-ai/#performance
