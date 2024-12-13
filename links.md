@@ -1,6 +1,7 @@
 # Github
 - https://github.blog/news-insights/octoverse/octoverse-2024/
-
+- cpu performance https://github.com/obrienlabs/benchmark/issues/12
+- gpu performance https://github.com/obrienlabs/benchmark/issues/12
 # Training
 ## General
 We still need the older Yahoo that I remember from the late 90's - a tree of curated lists.
