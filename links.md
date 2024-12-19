@@ -1,3 +1,5 @@
+# AI
+- Canadian AI lab at NVidia - https://research.nvidia.com/labs/toronto-ai/
 # Github
 - https://github.blog/news-insights/octoverse/octoverse-2024/
 - cpu performance https://github.com/obrienlabs/benchmark/issues/12
