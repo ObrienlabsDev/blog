@@ -19,7 +19,7 @@ We still need the older Yahoo that I remember from the late 90's - a tree of cur
 - https://scratch.mit.edu/
 - https://github.com/ilyaresh/coding-for-kids
 - https://careers.cern/alljobs?title=developer
-- 
+- https://kharshit.github.io/blog/2024/06/07/matrix-multiplication-cuda
 
 ## Todo
 - https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/
