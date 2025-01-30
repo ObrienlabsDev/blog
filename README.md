@@ -5,6 +5,9 @@
 - https://www.linkedin.com/in/michaelobrien-developer
 - https://youtube.com/@obrienlabs?si=Aec73pKFgd8vfDNc
 # obrienlabs.medium.com
+## 2025: While at Cisco
+- https://obrienlabs.medium.com/running-reasoning-llms-like-the-deepseek-r1-70b-43g-locally-for-private-offline-air-gapped-259fa437da8f
+## 2021-2024: while at Google
 - https://obrienlabs.medium.com/running-the-larger-google-gemma-7b-35gb-llm-for-7x-inference-performance-gain-8b63019523bb
 - https://obrienlabs.medium.com/google-gemma-7b-and-2b-llm-models-are-now-available-to-developers-as-oss-on-hugging-face-737f65688f0d
 - https://obrienlabs.medium.com/running-the-70b-llama-2-llm-locally-on-metal-via-llama-cpp-on-mac-studio-m2-ultra-32b3179e9cbe
