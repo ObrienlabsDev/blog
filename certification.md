@@ -12,6 +12,39 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 # NVIDIA Deep Learning Institute
 - https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web
 
+## Instructor-Led Workshop: Deploying RAG Pipelines for Production at Scale
+
+Sunday, March 16, 09:00-17:00 PDT (UTC-07:00)
+
+
+Retrieval-Augmented Generation (RAG) pipelines are revolutionizing enterprise operations. However, most existing tutorials stop at proof-of-concept implementations that falter when scaling. This workshop aims to bridge that gap, focusing on building scalable, production-ready RAG pipelines powered by NVIDIA NIM microservices and Kubernetes. You will gain hands-on experience deploying, monitoring, and scaling RAG pipelines with the NIM Operator and learn best practices for infrastructure optimization, performance monitoring, and handling high traffic volumes.
+
+
+We'll begin by building a simple RAG pipeline using the NVIDIA API catalog, then deploy and test individual components in a local environment using Docker Compose. Once familiar with the basics, we'll shift to deploying NIMs, such as LLM, NeMo Retriever Text Embedding, and NeMo Retriever Text Reranking, in a Kubernetes cluster using the NIM Operator. This will include managing the deployment, monitoring, and scalability of NVIDIA NIM microservices. Building on these deployments, we'll cover constructing a production-grade RAG pipeline using the deployed NIMs and explore NVIDIA's blueprint for PDF ingestion, learning how to integrate it into the RAG pipeline.
+
+
+To ensure operational efficiency, we'll introduce Prometheus and Grafana for monitoring pipeline performance, cluster health, and resource utilization. Scalability will be addressed through the use of the Kubernetes Horizontal Pod Autoscaler (HPA) for dynamically scaling NIMs based on custom metrics in conjunction with the NIM Operator. Custom dashboards will be created to visualize key metrics and interpret performance insights.
+
+
+You’ll be able to:
+
+Build a simple RAG pipeline using API endpoints, deployed locally with Docker Compose.
+Deploy a variety of NVIDIA NIM microservices in a Kubernetes cluster using the NIM Operator.
+Combine NIMs into a cohesive, production-grade RAG pipeline and integrate advanced data ingestion workflows.
+Monitor RAG pipelines and Kubernetes clusters with Prometheus and Grafana.
+Scale NIMs to handle high traffic using the NIM Operator.
+Create, deploy, and scale RAG pipelines for a variety of agentic workflows, including PDF ingestion.
+
+Prerequisite(s):
+
+Familiarity working with LLM-based applications.
+Familiarity with RAG pipelines.
+Familiarity working with Kubernetes.
+Familiarity working with Helm.
+
+Certificate:Upon successful completion of the assessment, you’ll receive an NVIDIA certificate to recognize your subject matter competency and support your professional career growth.
+
+
 # Cisco
 - https://www.netacad.com/catalogs/learn
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html#accordion-126b124179-item-7335c2761d
