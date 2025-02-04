@@ -59,6 +59,11 @@ Certificate:Upon successful completion of the assessment, you’ll receive an NV
 - 202501 https://training.linuxfoundation.org/certified-kubernetes-administrator-cka-program-changes/
 - 5 - CKS https://training.linuxfoundation.org/wp-content/uploads/2024/10/CKS_CurriculumPath.pdf
 - 202410 https://training.linuxfoundation.org/cks-program-changes/
+
+## Java Certification
+- Now Java 21 - https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
+- https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/105037/139080/220555
+- 
 ## Apple Swift Certification
 - https://developer.apple.com/learn/
 - https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
