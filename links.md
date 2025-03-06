@@ -1,4 +1,5 @@
 # AI
+- https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-overview.html
 - Canadian AI lab at NVidia - https://research.nvidia.com/labs/toronto-ai/
 # Github
 - https://github.blog/news-insights/octoverse/octoverse-2024/
