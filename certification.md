@@ -67,3 +67,9 @@ Certificate:Upon successful completion of the assessment, you’ll receive an NV
 ## Apple Swift Certification
 - https://developer.apple.com/learn/
 - https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
+
+## Stanford
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#:~:text=Architecture%20of%20a%20traditional%20RNN,They%20are%20typically%20as%20follows
+
+## MIT
+
