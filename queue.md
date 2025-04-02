@@ -1,3 +1,5 @@
+# 20250402
+- review with a grain of salt and filter out https://a16z.com/the-techno-optimist-manifesto/ from Marc as I knew him in 1995
 # 20250320
 - review bert https://en.wikipedia.org/wiki/BERT_(language_model)
 - review kv caching in LLMs
