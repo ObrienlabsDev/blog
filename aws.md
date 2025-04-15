@@ -1,3 +1,5 @@
+## EKS Extended Support Costs
+- https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/
 ## Secret Key rotation
 - https://aws.amazon.com/blogs/security/how-to-rotate-access-keys-for-iam-users/
 ```
