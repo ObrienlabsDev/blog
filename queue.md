@@ -1,3 +1,4 @@
+- https://www.cyber.gc.ca/en/news-events/peoples-republic-china-activity-targeting-network-edge-routers-observations-mitigation-strategies
 # 20250402
 - review with a grain of salt and filter out https://a16z.com/the-techno-optimist-manifesto/ from Marc as I knew him in 1995
 # 20250320
