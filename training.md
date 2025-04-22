@@ -32,6 +32,14 @@
 # Oracle
 - 
 
+# AI / LLM Ops
+- Langchain
+- RAG
+- promptfoo
+- Langfuse
+- AWS Bedrock
+- Concourse
+- 
 
 # AI / ML Masters and Professional Certificates
 - Stanford
