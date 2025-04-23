@@ -9,5 +9,5 @@
 
 
 # queue
-Locust load testing - https://locust.io/
+Locust load testing - https://locust.io/ - https://github.com/ObrienlabsDev/blog/issues/118
 
