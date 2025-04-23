@@ -6,3 +6,8 @@
 
 ## Security
 - Falco cloud native security - https://falco.org/
+
+
+# queue
+Locust load testing - https://locust.io/
+
