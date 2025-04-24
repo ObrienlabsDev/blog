@@ -9,6 +9,6 @@
 
 
 # queue
-Locust load testing - https://locust.io/ - https://github.com/ObrienlabsDev/blog/issues/118
-Milvus vector db - https://milvus.io/
+- Locust load testing - https://locust.io/ - https://github.com/ObrienlabsDev/blog/issues/118
+- Milvus vector db - https://milvus.io/
 
