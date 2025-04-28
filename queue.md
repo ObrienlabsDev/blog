@@ -1,4 +1,9 @@
 - https://www.cyber.gc.ca/en/news-events/peoples-republic-china-activity-targeting-network-edge-routers-observations-mitigation-strategies
+- https://www.science.org/doi/10.1126/science.adw5211
+- https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front?utm_campaign=post&utm_medium=web
+- https://huggingface.co/microsoft/bitnet-b1.58-2B-4T
+- https://www.wired.com/story/objective-c-programming-language-verbose/
+- 
 # 20250402
 - review with a grain of salt and filter out https://a16z.com/the-techno-optimist-manifesto/ from Marc as I knew him in 1995
 # 20250320
