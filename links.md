@@ -28,3 +28,4 @@ We still need the older Yahoo that I remember from the late 90's - a tree of cur
 - https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#:~:text=Architecture%20of%20a%20traditional%20RNN,They%20are%20typically%20as%20follows
 - https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/
 - Teleport for FedRAMP, NIST-800-53 and ITSG-33 https://goteleport.com/use-cases/fedramp-compliance/
+- https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
