@@ -1,3 +1,5 @@
+- https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
+- https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
 - https://www.cyber.gc.ca/en/news-events/peoples-republic-china-activity-targeting-network-edge-routers-observations-mitigation-strategies
 - https://www.science.org/doi/10.1126/science.adw5211
 - https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front?utm_campaign=post&utm_medium=web
