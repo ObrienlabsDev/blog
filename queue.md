@@ -1,4 +1,5 @@
 - https://safety.google/cybersecurity-advancements/saif/
+- https://ai.google.dev/edge/litert (Tensorflow Light)
 - https://cloud.google.com/blog/products/identity-security/google-advances-sovereignty-choice-and-security-in-the-cloud?linkId=14562203
 - https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
 - https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
