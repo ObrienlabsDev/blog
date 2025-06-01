@@ -25,6 +25,13 @@ brew unlink python && brew link python
 brew reinstall python@3.13
 pip3 --version
 ```
+
+## Python venv
+```
+python3 -m venv ~/venv/ml
+source ~/venv/ml/bin/activate
+pip3 install -U transformers
+```
 ## SCP
 ```
 scp -P 2022 ~/Downloads/ubuntu-24.04.1-live-server-arm64.iso m..en@1..9:/Users/m../Downloads
