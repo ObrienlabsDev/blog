@@ -7,6 +7,24 @@
 
 ```
 # OSX
+## Brew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo >> /Users/m,,,n/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/mic,,,ien/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew --version
+brew install python
+brew install pyenv
+source ~/.bash_profile
+eval "$(pyenv init --path)"
+alias python='python3'
+
+fixing pip
+brew unlink python && brew link python
+brew reinstall python@3.13
+pip3 --version
+```
 ## SCP
 ```
 scp -P 2022 ~/Downloads/ubuntu-24.04.1-live-server-arm64.iso m..en@1..9:/Users/m../Downloads
