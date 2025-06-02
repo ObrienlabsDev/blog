@@ -1,3 +1,4 @@
+- research ipvs and iptables proxy modes for virtual IPs and Service Proxies in Kubernetes - https://kubernetes.io/docs/reference/networking/virtual-ips/
 - https://safety.google/cybersecurity-advancements/saif/
 - https://notebooklm.google.com/
 - https://github.com/ObrienlabsDev
