@@ -1,3 +1,4 @@
+- Netflix use of Java 21 for graphQL https://blog.bytebytego.com/p/how-netflix-runs-on-java
 - research ipvs and iptables proxy modes for virtual IPs and Service Proxies in Kubernetes - https://kubernetes.io/docs/reference/networking/virtual-ips/
 - https://safety.google/cybersecurity-advancements/saif/
 - https://notebooklm.google.com/
