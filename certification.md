@@ -1,4 +1,6 @@
 # Google Cloud Platform
+## Google Cloud Professional Architect
+- https://services.google.com/fh/files/misc/pca_renewal_exam_overview_and_faqs.pdf
 ## Google Cloud Professional Machine Learning Engineer
 - https://cloud.google.com/learn/certification/guides/machine-learning-engineer
 - https://cloud.google.com/learn/certification/machine-learning-engineer
