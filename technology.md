@@ -1,9 +1,12 @@
 # Technology Artifacts
 ## Open Source
 - Apple OSS - https://opensource.apple.com/projects/
+
 ## CICD
 - Bazel https://bazel.build/
 
+## Companies
+- BaseTen Inference as a Service - https://www.baseten.co/
 ## Security
 - Falco cloud native security - https://falco.org/
 
