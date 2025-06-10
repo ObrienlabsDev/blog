@@ -1,3 +1,4 @@
+- llm-d https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
 - check BaseTen for Inference as a Service - https://www.baseten.co/
 -  Netflix use of Java 21 for graphQL https://blog.bytebytego.com/p/how-netflix-runs-on-java
 - research ipvs and iptables proxy modes for virtual IPs and Service Proxies in Kubernetes - https://kubernetes.io/docs/reference/networking/virtual-ips/
