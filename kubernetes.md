@@ -1,3 +1,12 @@
+# Kubernetes CLI Nice ones
+## get cluster events
+```
+kubectl get events -A --sort-by=.lastTimestamp
+```
+## all non-Running pods
+```
+kubectl get pods -A | grep -v Running | grep -v Completed
+```
 # Kubernetes from Scratch
 ## Kubernetes on Bare Metal using kubadm
 ## Kubernetes on GCP VMs
