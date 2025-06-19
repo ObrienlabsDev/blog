@@ -1,3 +1,4 @@
+- kubernetes security posture via wiz https://www.wiz.io/lp/nb-kubernetes-b
 - llm-d https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
 - https://www.baseten.co/blog/using-fractional-h100-gpus-for-efficient-model-serving/
 - check BaseTen for Inference as a Service - https://www.baseten.co/
