@@ -1,3 +1,4 @@
+- https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/
 - google cloud run GPUs https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available
 - kubernetes security posture via wiz https://www.wiz.io/lp/nb-kubernetes-b
 - llm-d https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d
