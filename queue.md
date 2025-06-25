@@ -1,4 +1,4 @@
-- check https://www.linkedin.com/company/buildbuddy/
+- check https://www.linkedin.com/company/buildbuddy/ on top of https://bazel.build/
 - https://www.anyscale.com/blog/ai-compute-open-source-stack-kubernetes-ray-pytorch-vllm
 - https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/
 - google cloud run GPUs https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available
