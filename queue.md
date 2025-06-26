@@ -1,3 +1,4 @@
+- https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
 - follow https://www.linkedin.com/in/joelle-pineau-371574141/ of FAIR (Fundamental AI Research)
 - check https://www.linkedin.com/company/buildbuddy/ on top of https://bazel.build/
 - https://www.anyscale.com/blog/ai-compute-open-source-stack-kubernetes-ray-pytorch-vllm
