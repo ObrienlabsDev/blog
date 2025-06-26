@@ -58,4 +58,6 @@
 - https://web.stanford.edu/class/cs246/
 - https://cs230.stanford.edu/syllabus/
 - https://cs230.stanford.edu/syllabus/fall_2024/lecture_10.pdf
+- https://online.stanford.edu/courses/xcs236-deep-generative-models
+- https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai
 - 
