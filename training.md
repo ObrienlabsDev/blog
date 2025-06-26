@@ -53,4 +53,9 @@
 - Leeds https://pg-online.leeds.ac.uk/cpm/artificial-intelligence/
 - https://courses.sci.pitt.edu/courses/view/CMPINF-2100
 
-
+## Stanford
+- http://www.mmds.org/
+- https://web.stanford.edu/class/cs246/
+- https://cs230.stanford.edu/syllabus/
+- https://cs230.stanford.edu/syllabus/fall_2024/lecture_10.pdf
+- 
