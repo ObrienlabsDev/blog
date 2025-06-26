@@ -46,6 +46,7 @@
 # AI / ML Masters and Professional Certificates
 - Stanford
 - - https://mystanfordconnection.stanford.edu/portal/student/studentHome.do?method=load
+  - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 - Stanford - deeplearning.ai
 - - https://www.coursera.org/specializations/machine-learning-introduction
 - MIT
