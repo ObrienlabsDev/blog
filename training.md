@@ -51,5 +51,6 @@
 - - https://www.coursera.org/specializations/machine-learning-introduction
 - MIT
 - Leeds https://pg-online.leeds.ac.uk/cpm/artificial-intelligence/
+- https://courses.sci.pitt.edu/courses/view/CMPINF-2100
 
 
