@@ -1,3 +1,4 @@
+- https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/
 - https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
 - follow https://www.linkedin.com/in/joelle-pineau-371574141/ of FAIR (Fundamental AI Research)
 - check https://www.linkedin.com/company/buildbuddy/ on top of https://bazel.build/
