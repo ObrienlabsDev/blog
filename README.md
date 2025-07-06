@@ -1,3 +1,5 @@
+# Github wiki 2
+- https://obrienlabsdev.github.io/
 # This WIKI
 - https://github.com/ObrienlabsDev/blog/wiki
 The repository 01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 is too long (maximum is 100 characters).
