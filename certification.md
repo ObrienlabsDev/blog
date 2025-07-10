@@ -71,6 +71,7 @@ Certificate:Upon successful completion of the assessment, you’ll receive an NV
 - https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview
 
 ## Stanford
+- Chip Huyen on Stanford - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 - https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#:~:text=Architecture%20of%20a%20traditional%20RNN,They%20are%20typically%20as%20follows
 
 ## MIT
