@@ -1,5 +1,6 @@
 # Canada
 - https://www.aiadoption.ca/recommendations/
+- https://github.com/nickfrosst
 
 ## Media
 - https://www.cbc.ca/mediacentre/bio/nora-young#
