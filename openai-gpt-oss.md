@@ -146,3 +146,14 @@ Energy (eV)              Non‑relativistic          Relativistic
 
 Thus, **relativistic quantum mechanics** reshapes the electronic band structure of gold so that a formerly hidden 5d→6s transition becomes visible, absorbing blue light 
 and leaving a yellow‑ish reflection that we recognize as gold.
+
+```
+total duration:       1m2.202324708s
+load duration:        59.609167ms
+prompt eval count:    4937 token(s)
+prompt eval duration: 7.340259833s
+prompt eval rate:     672.59 tokens/s
+eval count:           2183 token(s)
+eval duration:        54.776578542s
+eval rate:            39.85 tokens/s
+```
