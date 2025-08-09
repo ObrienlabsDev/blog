@@ -1,6 +1,8 @@
 
 ## 20250809: OpenAI gpt-oss:20b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
 https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama
+
+
 ```
 en@ultra3 en % ollama pull gpt-oss:20b
 pulling manifest 
@@ -14,6 +16,7 @@ writing manifest
 success 
 en@ultra3 en % ollama run gpt-oss:20b
 >>> describe the relativistic effects that result in gold appearing yellowish
+```
 Thinking...
 User: "describe the relativistic effects that result in gold appearing yellowish". They want a description of relativistic effects causing gold to appear yellowish. 
 Gold's color is due to relativistic contraction of electron orbitals of heavy atoms causing shifts in interband transitions. So we should explain that gold's valence 
@@ -143,4 +146,3 @@ Energy (eV)              Non‑relativistic          Relativistic
 
 Thus, **relativistic quantum mechanics** reshapes the electronic band structure of gold so that a formerly hidden 5d→6s transition becomes visible, absorbing blue light 
 and leaving a yellow‑ish reflection that we recognize as gold.
-```
