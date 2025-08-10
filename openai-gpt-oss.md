@@ -1,5 +1,5 @@
 
-## 20250809: OpenAI gpt-oss:20b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
+# 20250809: OpenAI gpt-oss:20b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
 https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama
 
 https://github.com/ObrienlabsDev/blog/issues/133
@@ -703,3 +703,248 @@ prompt eval rate:     1374.06 tokens/s
 eval count:           2061 token(s)
 eval duration:        54.906231042s
 eval rate:            37.54 tokens/s
+
+
+# 20250810: OpenAI gpt-oss:120b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
+
+95G ram, 8% gpu, 65g ollama process - it does not fit even though we have 72g vram - will rerun on at least 128g (with 96g VRAM)
+
+ien@ultra3 en % ollama run gpt-oss:120b --verbose
+>>> describe the difference between L1 and L2 regularization - what are the geometric implications
+Thinking...
+We need to respond describing difference between L1 and L2 regularization, and geometric implications. Should explain penalty terms, sparsity, convex shape, contour 
+geometry, effect on solution: L1 leads to axis-aligned diamond (L1 norm ball), which tends to intersect with elliptical contours at corners leading to sparse solutions; 
+L2 is spherical (circle) leading to shrinkage but not sparsity. Include geometrical view of loss surfaces, regularization path, effect on coefficient magnitude, etc. 
+Provide also explanation of effect on bias-variance tradeoff. Might also discuss elastic net. Provide figures description since can't show actual images. Use math 
+formulas. Provide intuitive explanation. Also explain in context of linear regression and logistic regression. Also mention geometry in high dimensions: L1 ball is 
+cross-polytope, L2 ball is Euclidean sphere. Also talk about subgradients, convexity. Provide examples. Write clearly.
+...done thinking.
+
+## 1.  What the two penalties look like (the formulas)
+
+| Regularizer | Formula (for a weight vector \(w\in\mathbb{R}^p\)) | Typical objective |
+|-------------|-----------------------------------------------|-------------------|
+| **\(L_1\) (lasso)** | \(\displaystyle \|w\|_{1}= \sum_{j=1}^{p}|w_j|\) | \(\displaystyle \min_{w}\; \mathcal L(w) + \lambda \|w\|_{1}\) |
+| **\(L_2\) (ridge)** | \(\displaystyle \|w\|_{2}^{2}= \sum_{j=1}^{p} w_j^{2}\) | \(\displaystyle \min_{w}\; \mathcal L(w) + \lambda \|w\|_{2}^{2}\) |
+
+where  
+
+* \(\mathcal L(w)\) is the data‑fitting loss (e.g. squared error for linear regression, negative log‑likelihood for logistic regression).  
+* \(\lambda\ge 0\) controls the strength of regularisation.
+
+Both are **convex** and **additive** across dimensions, but they behave very differently because the *shape* of their level sets is different. That geometric difference 
+is what drives the distinct statistical properties.
+
+---
+
+## 2.  Geometric picture in two dimensions  
+
+### 2.1.  Contours of the loss \(\mathcal L(w)\)
+
+If we ignore the regulariser for a second, the loss surface \(\mathcal L(w)\) (e.g. the sum‑of‑squared residuals) is typically an **elliptical bowl** centered at the 
+ordinary‑least‑squares (OLS) solution \(w_{\text{OLS}}\).  
+For a quadratic loss the contours are exact ellipses:
+
+\[
+\{w \mid \mathcal L(w) = c\} = \{w \mid (w-w_{\text{OLS}})^\top \Sigma^{-1} (w-w_{\text{OLS}}) = c\},
+\]
+
+where \(\Sigma\) is the covariance of the design matrix.
+
+### 2.2.  The regulariser’s “ball”
+
+* **\(L_2\) ball** – the set \(\{w\mid \|w\|_2 \leq r\}\) is a **circle** (in 2‑D) or a sphere (in higher D).  
+* **\(L_1\) ball** – the set \(\{w\mid \|w\|_1 \leq r\}\) is a **diamond** (2‑D) or a **cross‑polytope** (higher D). Its corners lie on the coordinate axes.
+
+### 2.3.  The constrained view  
+
+Minimising the penalised objective is equivalent (by Lagrange duality) to solving:
+
+\[
+\min_{w}\; \mathcal L(w) \quad \text{s.t.}\quad \|w\|_{1}\leq t \quad\text{or}\quad \|w\|_{2}\leq t .
+\]
+
+Geometrically we **slide** the loss ellipse towards the origin until it first touches the feasible set (the ball). The point of first contact is the solution.
+
+| Regulariser | Typical contact point | What this means |
+|-------------|-----------------------|-----------------|
+| **Ridge (L2)** | Touches the **smooth** circular boundary at a point **away from the axes**. | All coefficients are shrunk proportionally; none are forced to be 
+exactly zero. |
+| **Lasso (L1)** | Diamond has **sharp corners** on the axes. The ellipse often hits a corner, making one or more coordinates **exactly zero**. | Produces *sparse* 
+solutions—automatic variable selection. |
+
+> **Intuition** – Imagine a rubber band (the loss ellipse) being pulled toward the origin. A circular rubber band can slide around smoothly, whereas a diamond‑shaped 
+band has “pinch points” that snag the rubber band. When the rubber band gets caught at a pinch point, one coordinate collapses to zero.
+
+---
+
+## 3.  High‑dimensional geometry
+
+| Dimension | Shape of the \(L_2\) ball | Shape of the \(L_1\) ball |
+|-----------|---------------------------|---------------------------|
+| 2         | Circle (radius \(r\)) | Diamond (vertices on axes) |
+| 3         | Sphere (surface of a ball) | Octahedron (8 triangular faces, vertices on axes) |
+| \(p\)     | Euclidean sphere \(S_{2}^{p-1}\) | **Cross‑polytope** \(C_{1}^{p}\) (the convex hull of the \(2p\) points \(\pm r e_j\)) |
+
+*The cross‑polytope has a huge fraction of its surface concentrated near the axes.*  
+In very high dimensions the \(L_1\) ball is “spikier”: most of its volume lives in the corners where many coefficients are small or zero. The \(L_2\) ball, by contrast, 
+is isotropic – every direction looks the same.
+
+This concentration explains why in large‑\(p\) settings the lasso tends to set many coefficients exactly to zero, whereas ridge merely pulls them toward the origin.
+
+### 3.1.  Subgradients and optimality
+
+* **Ridge:** The gradient of \(\|w\|_{2}^{2}\) is \(2w\). The optimality condition is smooth:
+
+  \[
+  \nabla\mathcal L(w^\star) + 2\lambda w^\star = 0.
+  \]
+
+* **Lasso:** \(\|w\|_{1}\) is **nondifferentiable** at zero. Its subgradient is  
+
+  \[
+  \partial |w_j| = \begin{cases}
+  \operatorname{sign}(w_j) & w_j\neq0\\[4pt]
+  [-1,\,1] & w_j = 0 .
+  \end{cases}
+  \]
+
+  The KKT condition becomes
+
+  \[
+  \nabla\mathcal L(w^\star)_j + \lambda\,\gamma_j = 0,\qquad \gamma_j\in\partial|w_j|.
+  \]
+
+  If \(|\nabla\mathcal L(w^\star)_j| < \lambda\) the only way to satisfy the condition is to set \(w_j^\star=0\). That is the **soft‑thresholding** rule that underlies 
+the sparsity property.
+
+---
+
+## 4.  Consequences for the estimated coefficients
+
+| Property | Ridge (\(L_2\)) | Lasso (\(L_1\)) |
+|----------|------------------|-----------------|
+| **Shrinkage** | All coefficients are multiplied by a factor < 1 (biased towards 0). | Small coefficients are **soft‑thresholded**: they may be set exactly to 0, larger 
+ones are reduced by \(\lambda\). |
+| **Bias‑variance trade‑off** | Reduces variance by pulling coefficients toward a common centre (the origin). | Reduces variance *and* performs variable selection, often 
+yielding larger bias for the retained variables. |
+| **Prediction vs. interpretation** | Good for improving prediction when many correlated predictors exist. | Useful when we want a parsimonious model (feature 
+selection). |
+| **Handling of collinearity** | Distributes the weight among correlated predictors (they share the shrinkage). | Tends to pick *one* predictor from a correlated group 
+and zero‑out the rest (the “grouping effect” is weaker). |
+| **Solution path** | Gives a smooth, continuous ridge trace as \(\lambda\) varies. | Piecewise‑linear path; coefficients enter/leave the model at distinct \(\lambda\) 
+values. |
+
+---
+
+## 5.  Visualising the paths (1‑D example)
+
+For a single coefficient \(w\) with a quadratic loss \(\tfrac12 (w - \hat w)^2\):
+
+* **Ridge:**  
+  \[
+  \min_w \frac12 (w-\hat w)^2 + \lambda w^2 \quad\Rightarrow\quad w^\star = \frac{\hat w}{1+2\lambda}.
+  \]
+  The solution shrinks continuously toward zero as \(\lambda\) grows.
+
+* **Lasso:**  
+  \[
+  \min_w \frac12 (w-\hat w)^2 + \lambda |w|
+  \quad\Rightarrow\quad
+  w^\star = \operatorname{sign}(\hat w)\,\bigl(|\hat w|-\lambda\bigr)_+ .
+  \]
+  This is the **soft‑thresholding** operator. When \(|\hat w| \le \lambda\) the estimate becomes exactly zero.
+
+The graph of the ridge solution is a hyperbola; the lasso solution looks like a V‑shaped line that flattens at zero.
+
+---
+
+## 6.  Geometric intuition for the **bias‑variance** trade‑off
+
+*Take the loss contours as probability clouds:*  
+The data‑likelihood (or OLS loss) defines an ellipsoidal confidence region around the *true* parameter vector. Adding a regulariser shrinks the feasible region:
+
+- **Ridge**: The spherical \(L_2\) ball cuts off the tails of the ellipsoid **uniformly** in all directions. The result is a *biased* estimator (the centre moves towards 
+the origin) but the *spread* (variance) is reduced in *every* direction.
+
+- **Lasso**: The diamond (or cross‑polytope) cuts off the ellipsoid **asymmetrically**—it aggressively truncates the axes. Directions aligned with the axes get a 
+**hard** cut (coefficient forced to zero), whereas directions that lie off the axes are only mildly trimmed. The variance reduction is therefore larger for the 
+coefficients that are eliminated, at the cost of a larger bias for the remaining ones.
+
+---
+
+## 7.  When to prefer which regulariser? (Geometric “rule of thumb”)
+
+| Situation (geometric viewpoint) | Recommended regulariser |
+|----------------------------------|--------------------------|
+| **Many correlated predictors** – the loss ellipsoid is elongated along a subspace spanned by those predictors. | **Ridge** (the \(L_2\) ball will intersect the 
+ellipsoid along that whole subspace, sharing weight). |
+| **Sparse true model** – the true parameter lies near a coordinate axis (most entries truly zero). | **Lasso** (the \(L_1\) diamond will likely touch at a corner, 
+reproducing sparsity). |
+| **Need a compromise** – you want both shrinkage and some sparsity. | **Elastic net** (\(\alpha\|w\|_1 + (1-\alpha)\|w\|_2^2\)) – the feasible set is a *rounded 
+diamond* that keeps the grouping property of ridge while allowing corner hits. |
+| **Very high‑dimensional, \(p\gg n\)** – the geometry of the \(L_1\) ball in huge dimensions makes it easier to “carve out” a low‑dimensional face (i.e., a sparse 
+solution). | **Lasso** (or variants such as the **group lasso**, **sorted‑\(L_1\)** etc.). |
+
+---
+
+## 8.  Summary diagram (described in words)
+
+Imagine three concentric shapes centred at the origin:
+
+1. A **circle** (L2 ball).  
+2. A **diamond** (L1 ball).  
+3. A **rounded diamond** (elastic‑net ball).
+
+Superimpose on them a set of **elliptical loss contours** centered at the OLS solution.  
+
+- As the penalty strength \(\lambda\) increases, the feasible shape shrinks.  
+- The **first point of tangency** is the regularised solution.  
+
+For the circle, tangency typically occurs on a smooth part of the contour → *all coordinates non‑zero*.  
+For the diamond, tangency often occurs at a vertex → *some coordinates exactly zero*.  
+For the rounded diamond, you can get a mix: vertices are softened, allowing a few zeros while preserving some ridge‑type grouping.
+
+---
+
+## 9.  Take‑away bullet points
+
+* **\(L_2\) regularisation = shrinking**  
+  *Geometric view*: intersect ellipsoidal loss with a **sphere** → solution stays inside, never lands on an axis.  
+  *Statistical effect*: all coefficients are reduced proportionally; no automatic variable selection.
+
+* **\(L_1\) regularisation = sparsifying**  
+  *Geometric view*: intersect ellipsoidal loss with a **diamond/cross‑polytope** → solution often hits a corner → some coefficients become exactly zero.  
+  *Statistical effect*: built‑in feature selection; stronger bias for retained coefficients but large variance reduction for the zeroed ones.
+
+* The **shape** of the constraint set determines *where* the loss contour can first touch it, and hence which coefficients survive.
+
+* In high‑dimensional spaces the **\(L_1\) ball’s corners dominate its surface**, making sparsity a natural outcome; the **\(L_2\) ball remains isotropic**, favouring 
+uniform shrinkage.
+
+* **Elastic‑net** blends the two geometries, producing a *rounded diamond* that keeps the grouping behaviour of ridge while still allowing sparsity.
+
+---
+
+### References for deeper geometric insight
+
+1. **Hastie, Tibshirani & Friedman**, *The Elements of Statistical Learning*, 2nd ed., Chap. 3 – visualisations of ridge vs. lasso.  
+2. **Boyd & Vandenberghe**, *Convex Optimization*, Sec. 4.2 – geometry of \(\ell_1\) and \(\ell_2\) balls.  
+3. **Zou & Hastie (2005)**, “Regularization and variable selection via the elastic net”, *J. R. Stat. Soc. B* – describes the rounded‑diamond constraint set.  
+4. **Bühlmann & van de Geer (2011)**, *Statistics for High‑Dimensional Data* – discusses subgradient optimality and sparsity.  
+
+Feel free to ask for a concrete plotted example (I can generate code snippets) or for extensions such as group‑lasso, fused‑lasso, or the impact of non‑quadratic losses. 
+Happy modelling!
+
+total duration:       13m32.350176542s
+load duration:        64.004417ms
+prompt eval count:    84 token(s)
+prompt eval duration: 1m9.51778625s
+prompt eval rate:     1.21 tokens/s
+eval count:           3323 token(s)
+eval duration:        12m22.767252458s
+eval rate:            4.47 tokens/s
+
+
+try
+sudo sysctl iogpu.wired_limit_mb=81920
