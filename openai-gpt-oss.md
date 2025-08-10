@@ -1,3 +1,5 @@
+## gps-oss:20b requires minimum 32G VRAM - in practice more than 36G
+Note: for the OpenAI gps-oss:20b running the conversion from MXFP4 to BFloat16 via Ollama - even a 48G M4 Max Macbook pro is too small as we need 32G min VRAM (even though the 48G mac has 36G)
 
 # 20250809: OpenAI gpt-oss:20b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
 https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama
