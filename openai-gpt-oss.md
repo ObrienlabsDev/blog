@@ -946,7 +946,7 @@ eval rate:            4.47 tokens/s
 try
 sudo sysctl iogpu.wired_limit_mb=81920
 
-## 64G Mac Studio M2 Max
+## 64G Mac Studio M2 Max running OpenAI gpt-oss:20b
 
 <img width="871" height="608" alt="Screenshot 2025-08-10 at 17 03 42" src="https://github.com/user-attachments/assets/6d60ab4b-3395-4db6-a529-7bd46328b327" />
 
