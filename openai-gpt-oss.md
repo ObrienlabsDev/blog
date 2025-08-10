@@ -945,3 +945,20 @@ eval rate:            4.47 tokens/s
 
 try
 sudo sysctl iogpu.wired_limit_mb=81920
+
+## 64G Mac Studio M2 Max
+
+<img width="871" height="608" alt="Screenshot 2025-08-10 at 17 03 42" src="https://github.com/user-attachments/assets/6d60ab4b-3395-4db6-a529-7bd46328b327" />
+
+<img width="1012" height="114" alt="Screenshot 2025-08-10 at 17 03 29" src="https://github.com/user-attachments/assets/098f186a-6794-4c96-a69c-f140c795d810" />
+
+```
+total duration:       45.990947292s
+load duration:        86.452625ms
+prompt eval count:    79 token(s)
+prompt eval duration: 665.715791ms
+prompt eval rate:     118.67 tokens/s
+eval count:           2295 token(s)
+eval duration:        45.238012709s
+eval rate:            50.73 tokens/s
+```
