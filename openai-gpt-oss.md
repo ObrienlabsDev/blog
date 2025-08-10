@@ -2,6 +2,8 @@
 ## 20250809: OpenAI gpt-oss:20b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
 https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama
 
+https://github.com/ObrienlabsDev/blog/issues/133
+
 
 ```
 en@ultra3 en % ollama pull gpt-oss:20b
