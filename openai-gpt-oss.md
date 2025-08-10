@@ -529,15 +529,10 @@ If you like “how things have always been done,” ridge (L2/Tikhonov) gives cl
 
 
 
-
-
-
-
-
 Ask ChatGPT
 
 
-## gpt-oss:20b
+# gpt-oss:20b
 
 >>> describe the difference between L1 and L2 regularization - what are the geometric implications
 Thinking...
@@ -707,7 +702,7 @@ eval rate:            37.54 tokens/s
 
 # 20250810: OpenAI gpt-oss:120b on an M3 Ultra 96g Mac Studio via MXFP4 conversion to BFloat16 via Ollama
 
-95G ram, 8% gpu, 65g ollama process - it does not fit even though we have 72g vram - will rerun on at least 128g (with 96g VRAM)
+95G ram, 12 cores, 8% gpu, 65g ollama process - it does not fit even though we have 72g vram - will rerun on at least 128g (with 96g VRAM)
 
 ien@ultra3 en % ollama run gpt-oss:120b --verbose
 >>> describe the difference between L1 and L2 regularization - what are the geometric implications
