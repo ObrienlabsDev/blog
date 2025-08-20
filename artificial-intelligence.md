@@ -1,6 +1,8 @@
 # Canada
 - https://www.aiadoption.ca/recommendations/
 - https://github.com/nickfrosst
+- https://www.canada.ca/en/services/science/innovation/funding.html
+- https://www.canada.ca/en/innovation-science-economic-development/news/2025/08/canada-partners-with-cohere-to-accelerate-world-leading-artificial-intelligence.html
 
 ## Media
 - https://www.cbc.ca/mediacentre/bio/nora-young#
