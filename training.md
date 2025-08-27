@@ -8,8 +8,10 @@
 - 3 certifications
 # GCP
 - 10 certifications
+- https://partner.cloudskillsboost.google/
 - https://grow.google/certificates/interview-warmup/
 - https://techdevguide.withgoogle.com/paths/interview
+- 
 
 # Isovalent
 - Cilium for Kubernetes - https://isovalent.com/labs/
