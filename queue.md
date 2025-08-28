@@ -1,4 +1,4 @@
-#
+# Java 25 LTS 20250919
 - https://arcprize.org/guide#grand-prize-goal
 - 20250826 - Canada and TKMS - https://www.hartpunkt.de/deutschland-und-norwegen-schlagen-kanada-maritime-partnerschaft-vor/
 # 20250804
