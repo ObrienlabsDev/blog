@@ -1,4 +1,4 @@
-from my https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-security-controls.md
+from my https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-security-controls.md or https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/gh357-tef-v4-fork/z_2024_v020_pre_tef_v4/docs/google-cloud-security-controls.md
 # TOC
 - [Guardrails Control Subset](#guardrails-subset)
 - [PBMM 31 Control Subset](#mandatory-security-controls-list)
