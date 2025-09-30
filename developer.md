@@ -1,6 +1,9 @@
 # Java
 ## ARM64 support
 - https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-11
+## Companies using Java
+- Elastic
+- Netflix
 - 
 # Python
 ## get processor() - for when you need to verify native ARM64 support (no Rosetta)
