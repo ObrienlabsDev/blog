@@ -3,6 +3,9 @@
 - https://github.com/nickfrosst
 - https://www.canada.ca/en/services/science/innovation/funding.html
 - https://www.canada.ca/en/innovation-science-economic-development/news/2025/08/canada-partners-with-cohere-to-accelerate-world-leading-artificial-intelligence.html
+## Cohere
+- https://github.com/ObrienlabsDev/blog/issues/137
+- https://docs.cohere.com/docs/private-deployment-overview
 
 ## Media
 - https://www.cbc.ca/mediacentre/bio/nora-young#
