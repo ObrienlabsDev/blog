@@ -5,6 +5,7 @@
 - https://www.canada.ca/en/innovation-science-economic-development/news/2025/08/canada-partners-with-cohere-to-accelerate-world-leading-artificial-intelligence.html
 - https://www.estruxture.com/company
 - https://mila.quebec/en
+- https://ised-isde.canada.ca/site/ised/en/public-consultations/help-define-next-chapter-canadas-ai-leadership
 - 
 ## Cohere
 - https://github.com/ObrienlabsDev/blog/issues/137
