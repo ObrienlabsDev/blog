@@ -1,0 +1,4 @@
+# Google Cloud
+- https://cloud.google.com/terms/data-residency
+- Assured Workoads (now Canada Data Boundary - https://cloud.google.com/assured-workloads/docs/control-packages/canada-data-boundary ) https://cloud.google.com/about/locations https://cloud.google.com/terms/secops/data-residency
+- https://cloud.google.com/terms/secops/data-residency
