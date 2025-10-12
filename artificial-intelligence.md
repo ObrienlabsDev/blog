@@ -2,6 +2,7 @@
 - https://www.aiadoption.ca/recommendations/
 - https://github.com/nickfrosst
 - https://www.canada.ca/en/services/science/innovation/funding.html
+- https://www.canada.ca/en/department-finance/news/2024/12/deputy-prime-minister-announces-240-million-for-cohere-to-scale-up-ai-compute-capacity.html
 - https://www.canada.ca/en/innovation-science-economic-development/news/2025/08/canada-partners-with-cohere-to-accelerate-world-leading-artificial-intelligence.html
 - https://www.estruxture.com/company
 - https://mila.quebec/en
