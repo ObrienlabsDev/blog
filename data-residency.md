@@ -1,4 +1,5 @@
 # Google Cloud
+- see https://github.com/ObrienlabsDev/blog/blob/main/artificial-intelligence.md#canada
 - https://cloud.google.com/terms/data-residency
 - Assured Workoads (now Canada Data Boundary - https://cloud.google.com/assured-workloads/docs/control-packages/canada-data-boundary ) https://cloud.google.com/about/locations
 - (northamerica-northeast2 (not 1) https://cloud.google.com/terms/secops/data-residency
