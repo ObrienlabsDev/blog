@@ -1,4 +1,5 @@
 # Canada
+- see https://github.com/ObrienlabsDev/blog/blob/main/data-residency.md#google-cloud
 - https://www.aiadoption.ca/recommendations/
 - https://github.com/nickfrosst
 - https://www.canada.ca/en/services/science/innovation/funding.html
