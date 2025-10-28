@@ -59,6 +59,10 @@ src % ssh -L 34.6:localhost:22 ubuntu@3...36 -i ~/keys/obr..115.pem
 ```
 eval `ssh-agent`
 ```
+## Turn off [[200 pasting in windows
+```
+ bind 'set enable-bracketed-paste off'
+```
 
 # Smalltalk
 - Smalltalk V or ParcPlace
