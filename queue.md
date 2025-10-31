@@ -2,6 +2,9 @@
 - https://arcprize.org/guide#grand-prize-goal
 - 20250826 - Canada and TKMS - https://www.hartpunkt.de/deutschland-und-norwegen-schlagen-kanada-maritime-partnerschaft-vor/
 - https://forces.ca/en/career/signals-intelligence-specialist/
+
+- https://cloud.google.com/blog/products/management-tools/learn-to-understand-and-reduce-cloud-monitoring-costs/
+- 
 # 20250804
 - https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/
 - https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
