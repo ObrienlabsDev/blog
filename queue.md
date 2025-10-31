@@ -3,6 +3,10 @@
 - 20250826 - Canada and TKMS - https://www.hartpunkt.de/deutschland-und-norwegen-schlagen-kanada-maritime-partnerschaft-vor/
 - https://forces.ca/en/career/signals-intelligence-specialist/
 
+Cloud monitoring reduction on new GKE cluster
+
+<img width="434" height="352" alt="image" src="https://github.com/user-attachments/assets/0751cf86-9ac2-4eab-a835-9bb89963d8b7" />
+
 - https://cloud.google.com/blog/products/management-tools/learn-to-understand-and-reduce-cloud-monitoring-costs/
 - 
 # 20250804
