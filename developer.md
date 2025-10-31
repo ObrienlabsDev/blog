@@ -55,6 +55,7 @@ src % ssh -L 34.6:localhost:22 ubuntu@3...36 -i ~/keys/obr..115.pem
 ```
 
 # Windows
+- https://chocolatey.org/install
 ## ssh
 ```
 eval `ssh-agent`
