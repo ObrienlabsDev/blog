@@ -1,4 +1,4 @@
-from my 202404 https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md and copy in https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md
+from my 202404 https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md and copy in https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md and https://github.com/GoogleCloudPlatform/pubsec-declarative-toolkit/wiki/Onboarding
 - see https://github.com/ObrienlabsDev/blog/blob/main/google-cloud-onboarding.md#gcp-organization-deletion
 - see 
 
