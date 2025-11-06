@@ -1,5 +1,6 @@
-from my 202404 https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md
+from my 202404 https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md and copy in https://github.com/GoogleCloudPlatform/pbmm-on-gcp-onboarding/blob/v20240407/docs/google-cloud-onboarding.md
 - see https://github.com/ObrienlabsDev/blog/blob/main/google-cloud-onboarding.md#gcp-organization-deletion
+- see 
 
 # Google Cloud Platform - Onboarding Guide (Google Identity Account, Domain verification and Billing) 
 ## Table Of Contents
