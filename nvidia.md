@@ -1,4 +1,4 @@
-## NVIDIA GB10 Arm DGX Spark
+## NVIDIA GB10 Arm64 DGX Spark CUDA 13 - 10p10e
 
 - https://github.com/ObrienlabsDev/performance/issues/45
 - https://github.com/ObrienlabsDev/machine-learning/issues/47
