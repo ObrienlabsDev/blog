@@ -6,6 +6,8 @@
 - https://github.com/ObrienlabsDev/machine-learning/issues/49
 - https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
 - https://github.com/ObrienlabsDev/blog/issues/144
+- https://github.com/NVIDIA/dgx-spark-playbooks
+- 
 - 20251108
 - 202510 https://marketplace.nvidia.com/en-us/developer/dgx-spark
 - https://www.canadacomputers.com/en/workstations/279129/nvidia-dgx-spark-ai-mini-pc-940-54242-0000-000-940-54242-0000-000.html?srsltid=AfmBOoqBukUC7jk2tNZSeKghJ-I4_1RjpcxHzvZKQrZ_y6Zv99z1FThQ
