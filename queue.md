@@ -8,6 +8,7 @@ Cloud monitoring reduction on new GKE cluster
 <img width="434" height="352" alt="image" src="https://github.com/user-attachments/assets/0751cf86-9ac2-4eab-a835-9bb89963d8b7" />
 
 - https://cloud.google.com/blog/products/management-tools/learn-to-understand-and-reduce-cloud-monitoring-costs/
+- https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
 - 
 # 20250804
 - https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/
