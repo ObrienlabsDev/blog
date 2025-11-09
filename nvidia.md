@@ -3,7 +3,7 @@
 - https://github.com/ObrienlabsDev/performance/issues/45
 - https://github.com/ObrienlabsDev/machine-learning/issues/47
 - https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
-- 
+- https://github.com/ObrienlabsDev/blog/issues/144
 - 20251108
 - 202510 https://marketplace.nvidia.com/en-us/developer/dgx-spark
 - https://www.canadacomputers.com/en/workstations/279129/nvidia-dgx-spark-ai-mini-pc-940-54242-0000-000-940-54242-0000-000.html?srsltid=AfmBOoqBukUC7jk2tNZSeKghJ-I4_1RjpcxHzvZKQrZ_y6Zv99z1FThQ
@@ -93,4 +93,28 @@ Vulnerabilities:
   Spectre v2:             Not affected
   Srbds:                  Not affected
   Tsx async abort:        Not affected
+```
+
+### Upgrade Java on NVIDIA DGX Spark
+- https://github.com/ObrienlabsDev/blog/issues/144
+Install Java 25 with javac over the default 1.8 jre
+```
+git clone git@github.com:ObrienlabsDev/performance.git
+
+sudo apt install maven
+
+michael@spark-7d19:~$ java -version
+openjdk version "1.8.0_462"
+OpenJDK Runtime Environment (build 1.8.0_462-8u462-ga~us1-0ubuntu2~24.04.2-b08)
+OpenJDK 64-Bit Server VM (build 25.462-b08, mixed mode)
+
+michael@spark-7d19:~/wse_github/ObrienlabsDev/performance/cpu/virtual/multithreaded/128bit/java-benchmark-128-cli$ sudo apt install openjdk-25-jdk-headless
+michael@spark-7d19:~/wse_github/ObrienlabsDev/performance/cpu/virtual/multithreaded/128bit/java-benchmark-128-cli$ javac -version
+javac 25
+michael@spark-7d19:~/wse_github/ObrienlabsDev/performance/cpu/virtual/multithreaded/128bit/java-benchmark-128-cli$ java -version
+openjdk version "25" 2025-09-16
+OpenJDK Runtime Environment (build 25+36-Ubuntu-124.04.2)
+OpenJDK 64-Bit Server VM (build 25+36-Ubuntu-124.04.2, mixed mode, sharing)
+
+
 ```
