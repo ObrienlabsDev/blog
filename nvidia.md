@@ -2,6 +2,8 @@
 
 - https://github.com/ObrienlabsDev/performance/issues/45
 - https://github.com/ObrienlabsDev/machine-learning/issues/47
+- https://github.com/ObrienlabsDev/machine-learning/issues/48
+- https://github.com/ObrienlabsDev/machine-learning/issues/49
 - https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
 - https://github.com/ObrienlabsDev/blog/issues/144
 - 20251108
@@ -115,6 +117,44 @@ michael@spark-7d19:~/wse_github/ObrienlabsDev/performance/cpu/virtual/multithrea
 openjdk version "25" 2025-09-16
 OpenJDK Runtime Environment (build 25+36-Ubuntu-124.04.2)
 OpenJDK 64-Bit Server VM (build 25+36-Ubuntu-124.04.2, mixed mode, sharing)
+```
 
+### PyTorch on GB10 via docker
+- https://github.com/ObrienlabsDev/machine-learning/issues/49
+```
+(venv-t214) michael@spark-7d19:~/wse_github/ObrienlabsDev/machine-learning$ sudo docker pull nvcr.io/nvidia/pytorch:25.09-py3
+25.09-py3: Pulling from nvidia/pytorch
+cc43ec4c1381: Pull complete 
+...
+216cdf20f351: Pull complete 
+Digest: sha256:f3b4a33fd60d5e0358287bb44d57e91eda45e8f1681fef1bfd6c969371417130
+Status: Downloaded newer image for nvcr.io/nvidia/pytorch:25.09-py3
+nvcr.io/nvidia/pytorch:25.09-py3
+(venv-t214) michael@spark-7d19:~/wse_github/ObrienlabsDev/machine-learning$ sudo docker run --gpus all -it --rm --ipc=host nvcr.io/nvidia/pytorch:25.09-py3
+== PyTorch ==
+NVIDIA Release 25.09 (build 210907838)
+PyTorch Version 2.9.0a0+50eac81
+Container image Copyright (c) 2025, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+Copyright (c) 2014-2024 Facebook Inc.
 
+root@c8522e0e1502:/workspace# vi pytorch.py
+
+import torch
+import os
+
+print("cpus: ", os.cpu_count())
+
+print("Torch:", torch.__version__)
+print("CUDA:", torch.version.cuda)
+print("GPU available:", torch.cuda.is_available())
+print("GPU:", torch.cuda.get_device_name(0))
+
+root@c8522e0e1502:/workspace# python pytorch.py 
+/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+cpus:  20
+Torch: 2.9.0a0+50eac811a6.nv25.09
+CUDA: 13.0
+GPU available: True
+GPU: NVIDIA GB10
 ```
