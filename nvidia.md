@@ -1,4 +1,9 @@
 ## NVIDIA GB10 Arm DGX Spark
+
+- https://github.com/ObrienlabsDev/performance/issues/45
+- https://github.com/ObrienlabsDev/machine-learning/issues/47
+- https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
+- 
 - 20251108
 - 202510 https://marketplace.nvidia.com/en-us/developer/dgx-spark
 - https://www.canadacomputers.com/en/workstations/279129/nvidia-dgx-spark-ai-mini-pc-940-54242-0000-000-940-54242-0000-000.html?srsltid=AfmBOoqBukUC7jk2tNZSeKghJ-I4_1RjpcxHzvZKQrZ_y6Zv99z1FThQ
