@@ -2,6 +2,7 @@
 ### Specs
 - Grace Blackwell GB10 - slimmed down B100//B200
 - 200gbps ConnectX-7 QSFP56 quad channel PAC - https://www.nvidia.com/en-us/networking/ethernet-adapters/
+- https://docs.nvidia.com/networking/display/connectx7firmwarev28441036/Validated+and+Supported+Cables+and+Switches
 
 ### Links
 
