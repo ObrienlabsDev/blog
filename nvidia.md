@@ -1,4 +1,9 @@
 ## NVIDIA GB10 Arm64 DGX Spark CUDA 13 - 10p10e
+### Specs
+- Grace Blackwell GB10 - slimmed down B100//B200
+- 200gbps ConnectX-7 QSFP56 quad channel PAC - https://www.nvidia.com/en-us/networking/ethernet-adapters/
+
+### Links
 
 - https://github.com/ObrienlabsDev/performance/issues/45
 - https://github.com/ObrienlabsDev/machine-learning/issues/47
