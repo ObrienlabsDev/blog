@@ -1,6 +1,6 @@
 ## NVIDIA GB10 Arm64 DGX Spark CUDA 13 - 10p10e
 
-<img width="1586" height="1952" alt="image" src="https://github.com/user-attachments/assets/18c81663-c303-4a07-a9d1-3af6c3bd8092" />
+
 
 
 
