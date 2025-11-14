@@ -17,6 +17,7 @@
 -  https://marketplace.nvidia.com/en-us/enterprise/networking/200gbeqsfp56cables/
 - https://network.nvidia.com/related-docs/prod_cables/PB_MCP1650-H0xxEyy_200Gbps_QSFP56_DAC.pdf
 - https://docs.nvidia.com/mcp1650-h0xxeyy-200gb-s-qsfp56-dac-product-specifications.pdf
+- https://www.naddod.com/products/13888.html
 
 - 
 ### Links
