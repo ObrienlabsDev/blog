@@ -34,5 +34,13 @@ michaelobrien@mbp8 gcp-bootstrap % tfswitch
 10:48:11.727 WARNING Falling back to install to "/Users/michaelobrien/bin" directory  
 10:48:11.728 WARNING Run `export PATH="$PATH:/Users/michaelobrien/bin"` to append "/Users/michaelobrien/bin/terraform" to $PATH  
 10:48:11.728 INFO Switched Terraform to version "1.14.1"  
-
-``
+10:48:11.728 WARNING Run `export PATH="$PATH:/Users/michaelobrien/bin"` to append "/Users/michaelobrien/bin/terraform" to $PATH  
+10:48:11.728 INFO Switched Terraform to version "1.14.1"  
+michaelobrien@mbp8 gcp-bootstrap % terraform --version
+zsh: command not found: terraform
+michaelobrien@mbp8 gcp-bootstrap % vi ~/.bash_profile 
+michaelobrien@mbp8 gcp-bootstrap % source ~/.bash_profile 
+michaelobrien@mbp8 gcp-bootstrap % terraform --version   
+Terraform v1.14.1
+on darwin_arm64
+```
