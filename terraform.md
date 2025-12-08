@@ -47,7 +47,6 @@ on darwin_arm64
 
 ## Gcloud Auth
 ```
-```
 michaelobrien@mbp8 shared %  gcloud auth application-default login 
 michaelobrien@mbp8 gcp-bootstrap % cat ~/.config/gcloud/application_default_credentials.json 
 {
@@ -60,4 +59,44 @@ michaelobrien@mbp8 gcp-bootstrap % cat ~/.config/gcloud/application_default_cred
   "universe_domain": "googleapis.com"
 }%                                          
 ```
+
+## Terraform init
+```
+michaelobrien@mbp8 shared % terraform init                                     
+Initializing the backend...
+
+Successfully configured the backend "gcs"! Terraform will automatically
+use this backend unless the backend configuration changes.
+Initializing modules...
+Initializing provider plugins...
+- Finding hashicorp/time versions matching ">= 0.5.0"...
+- Finding hashicorp/null versions matching ">= 2.1.0"...
+- Finding hashicorp/google versions matching ">= 3.43.0, >= 3.50.0, >= 3.53.0, >= 3.64.0, >= 3.67.0, >= 3.77.0, >= 4.28.0, < 6.0.0, < 7.0.0, < 8.0.0"...
+- Finding hashicorp/random versions matching ">= 2.2.0, >= 3.1.0"...
+- Finding hashicorp/google-beta versions matching ">= 3.43.0, >= 3.64.0, >= 3.67.0, >= 3.77.0, >= 4.11.0, >= 4.28.0, < 6.0.0, < 8.0.0"...
+- Installing hashicorp/random v3.7.2...
+- Installed hashicorp/random v3.7.2 (signed by HashiCorp)
+- Installing hashicorp/google-beta v5.45.2...
+- Installed hashicorp/google-beta v5.45.2 (signed by HashiCorp)
+- Installing hashicorp/time v0.13.1...
+- Installed hashicorp/time v0.13.1 (signed by HashiCorp)
+- Installing hashicorp/null v3.2.4...
+- Installed hashicorp/null v3.2.4 (signed by HashiCorp)
+- Installing hashicorp/google v5.45.2...
+- Installed hashicorp/google v5.45.2 (signed by HashiCorp)
+Terraform has created a lock file .terraform.lock.hcl to record the provider
+selections it made above. Include this file in your version control repository
+so that Terraform can guarantee to make the same selections by default when
+you run "terraform init" in the future.
+
+Terraform has been successfully initialized!
+
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.
+
 ```
