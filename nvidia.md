@@ -1,9 +1,6 @@
 # NVIDIA 
 - https://www.nvidia.com/en-us/technologies/
 
-## NVIDIA HPC Multi-GPU Multi-Node Clustering
-- NVIDIA Collective Communications Library - https://developer.nvidia.com/nccl
-- 
 ## NVIDIA GB200 Arm64 on Google Cloud 
 - https://cloud.google.com/blog/products/compute/new-a4x-vms-powered-by-nvidia-gb200-gpus
 
@@ -20,7 +17,9 @@
 -  https://marketplace.nvidia.com/en-us/enterprise/networking/200gbeqsfp56cables/
 - https://network.nvidia.com/related-docs/prod_cables/PB_MCP1650-H0xxEyy_200Gbps_QSFP56_DAC.pdf
 - https://docs.nvidia.com/mcp1650-h0xxeyy-200gb-s-qsfp56-dac-product-specifications.pdf
-- https://www.naddod.com/products/13888.html
+- https://www.naddod.com/products/13888.html - ethernet
+- https://www.naddod.com/products/13842.html - infiniband
+- https://medium.com/@dorangao/connecting-two-dgx-spark-systems-via-200gb-s-roce-network-for-multi-node-gpu-training-50d67d3630a5
 
 - 
 ### Links
@@ -37,7 +36,6 @@
 - 202510 https://marketplace.nvidia.com/en-us/developer/dgx-spark
 - https://www.canadacomputers.com/en/workstations/279129/nvidia-dgx-spark-ai-mini-pc-940-54242-0000-000-940-54242-0000-000.html?srsltid=AfmBOoqBukUC7jk2tNZSeKghJ-I4_1RjpcxHzvZKQrZ_y6Zv99z1FThQ
 - https://www.youtube.com/watch?v=AvgZscNZzYw&t=105s
-- https://blog.exolabs.net/nvidia-dgx-spark
 
 ### nvidia-smi
 ```
