@@ -31,6 +31,7 @@
 - https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
 - https://github.com/ObrienlabsDev/blog/issues/144
 - https://github.com/NVIDIA/dgx-spark-playbooks
+- https://blog.exolabs.net/nvidia-dgx-spark
 - 
 - 20251108
 - 202510 https://marketplace.nvidia.com/en-us/developer/dgx-spark
