@@ -22,6 +22,14 @@
 - https://www.educanada.ca/start-commencez/ai-ia.aspx?lang=eng
 - https://diro.umontreal.ca/english/programs/graduate-programs/specialized-graduate-diploma-in-machine-learning/
 
+## Langchain4J and MCP
+- https://github.com/ObrienlabsDev/blog/issues/129
+- https://github.com/ObrienlabsDev/blog/issues/150
+- https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation
+- https://events.linuxfoundation.org/mcp-dev-summit-north-america/register/
+- https://docs.langchain4j.dev/
+- https://github.com/langchain4j/langchain4j
+https://github.com/ObrienlabsDev/machine-learning/issues/50
 
 # Testing
 ## Generative AI
