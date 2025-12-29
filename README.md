@@ -46,4 +46,7 @@ Extraction)
 - Google Project Gemini - https://blog.google/technology/ai/google-io-2023-keynote-sundar-pichai/#ai-products is multimodal https://www.techopedia.com/definition/multimodal-ai-multimodal-artificial-intelligence - https://medium.com/@bedros-p/gemini-is-coming-to-makersuite-so-are-stubbs-32248f3924aa -  https://developers.googleblog.com/2023/09/make-with-makersuite-part1-introduction.html
 - https://blog.google/technology/ai/google-gemini-ai/#performance
 
+# ME
+It is important to work in detail and deep dive technologies that are dangerous and potentially catastrophic to the Human Race. Expanding on this - I think those of us who are empathetic (Most humans) must understand and maintain control of technologies that are generally feared and powerful. These technologies include Nanotechnology, Genetics, Machine Learning, Physics, Mathematics and Artificial Intelligence (both the statistical engine kind and the SSI/AGI kind). As in there are no black boxes. 20251229
+
 
