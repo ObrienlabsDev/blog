@@ -8,3 +8,7 @@
 - 
 ## Free Tier
 - https://docs.cloud.google.com/free/docs/free-cloud-features
+
+
+## Google Workspace
+- https://toolbox.googleapps.com/apps/checkmx/
