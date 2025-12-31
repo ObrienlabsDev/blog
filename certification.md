@@ -1,5 +1,7 @@
 # Google Cloud Platform
 - https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
+- https://cloud.google.com/products?pds=CAE
+
 ## Google Cloud Professional Architect
 - https://services.google.com/fh/files/misc/pca_renewal_exam_overview_and_faqs.pdf
 ## Google Cloud Professional Machine Learning Engineer
