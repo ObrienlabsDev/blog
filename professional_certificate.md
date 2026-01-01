@@ -1,5 +1,5 @@
 ## Stanford AI
-- https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
+- Chip Huyen's Stanford blog - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html (Chip Huyen's books - get them - https://www.amazon.ca/AI-Engineering-Building-Applications-Foundation-ebook/dp/B0DPLNK9GN and https://www.amazon.ca/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969
 - CS221 - https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
 - https://online.stanford.edu/explore?filter[0]=credentials%3A1120&filter[1]=credentials%3A1121&filter[2]=credentials%3A1122&filter[3]=credentials%3A1123&filter[4]=topic%3A1054&items_per_page=12&page=1
 - CS234 - https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
