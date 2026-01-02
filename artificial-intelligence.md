@@ -8,7 +8,7 @@
 - https://www.estruxture.com/company
 - https://mila.quebec/en
 - https://ised-isde.canada.ca/site/ised/en/public-consultations/help-define-next-chapter-canadas-ai-leadership
-- 
+- Canadian GPU manufacturer - early 2000's - ATI - https://www.electronicdesign.com/technologies/embedded/article/21213985/jon-peddie-research-atis-radeon-8500-first-gpu-with-hardware-tessellation
 ## Cohere
 - https://github.com/ObrienlabsDev/blog/issues/137
 - https://docs.cohere.com/docs/private-deployment-overview
