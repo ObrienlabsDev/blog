@@ -5,3 +5,4 @@
 - (northamerica-northeast2 (not 1) https://cloud.google.com/terms/secops/data-residency
 - https://cloud.google.com/terms/secops/data-residency
 - https://cloud.google.com/chronicle/docs/detection/yara-l-2-0-overview#logins_from_different_cities
+- Canadian Quantum cloud - https://www.xanadu.ai/about
