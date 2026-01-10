@@ -9,7 +9,7 @@
 
 ## NVIDIA GB10 Arm64 DGX Spark CUDA 13 - 10p10e
 
-
+- https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/
 
 
 
