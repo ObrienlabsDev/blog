@@ -1,6 +1,9 @@
 # RAG / Agents
 - https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
 
+# GB10
+- https://www.linkedin.com/posts/nvidia_nvidia-dgx-spark-gains-2x-performance-and-activity-7414603667464486912-YSOG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbcDJcBZerbLCkRZCD1NFpjmVRX8P0TxA4
+- 
 # Java 25 LTS 20250919
 - https://arcprize.org/guide#grand-prize-goal
 - 20250826 - Canada and TKMS - https://www.hartpunkt.de/deutschland-und-norwegen-schlagen-kanada-maritime-partnerschaft-vor/
