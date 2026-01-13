@@ -1,3 +1,5 @@
+# 2026
+- Google Weather - https://www.science.org/doi/10.1126/sciadv.adv6891
 # RAG / Agents
 - https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
 
