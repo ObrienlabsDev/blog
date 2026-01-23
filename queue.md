@@ -1,7 +1,9 @@
 # 2026
 - Google Weather - https://www.science.org/doi/10.1126/sciadv.adv6891
+- https://cloud.google.com/blog/products/compute/scaling-moe-inference-with-nvidia-dynamo-on-google-cloud-a4x
 # RAG / Agents
 - https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
+- 
 
 # GB10 DGX Spark
 - https://www.linkedin.com/posts/nvidia_nvidia-dgx-spark-gains-2x-performance-and-activity-7414603667464486912-YSOG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbcDJcBZerbLCkRZCD1NFpjmVRX8P0TxA4
