@@ -1,6 +1,7 @@
 # 2026
 - Google Weather - https://www.science.org/doi/10.1126/sciadv.adv6891
 - https://cloud.google.com/blog/products/compute/scaling-moe-inference-with-nvidia-dynamo-on-google-cloud-a4x
+- https://www.sandia.gov/labnews/2026/01/15/brain-inspired-computers-are-shockingly-good-at-math/
 # RAG / Agents
 - https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/
 - 
