@@ -1,0 +1,1 @@
+- https://competition-bureau.canada.ca/en/little-black-book-scams-2nd-edition
