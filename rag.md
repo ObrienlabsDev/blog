@@ -47,6 +47,6 @@ Text interactions with Vertex AI Conversation - Chat Experience (services/FBC0-A
 
 <img width="1856" height="874" alt="Screenshot 2026-02-05 at 15 01 14" src="https://github.com/user-attachments/assets/974d6583-38b0-4b88-97bb-8e1ab0b5eeb5" />
 
-- todo: intruduce RAG document additions
+- - todo: introduce RAG document additions and embeddings vector store
 
 
