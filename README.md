@@ -41,6 +41,9 @@ Extraction)
 - https://github.com/ObrienlabsDev/doppler-radar-ml
 
 ## Certifications
+<img width="1156" height="594" alt="Screenshot 2026-02-05 at 15 06 42" src="https://github.com/user-attachments/assets/ca10ed42-3f22-46ac-8928-3b0aa04504c5" />
+
+
 - Google Data Associate - https://www.credly.com/badges/1a7f3b48-5d5f-4b6a-a316-39bd4d380211
 - Google Workspace Associate - https://www.credly.com/badges/eadd68c6-ae8b-4527-94ba-78b06d03308e
 - Google ACE - https://www.credly.com/badges/7b314aaa-2ff4-41bc-a5f3-bc172280ea58
