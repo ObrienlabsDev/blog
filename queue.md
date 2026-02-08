@@ -1,3 +1,5 @@
+- https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/7
+
 # 2026
 - Google Weather - https://www.science.org/doi/10.1126/sciadv.adv6891
 - https://cloud.google.com/blog/products/compute/scaling-moe-inference-with-nvidia-dynamo-on-google-cloud-a4x
