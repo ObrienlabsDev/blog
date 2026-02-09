@@ -14,7 +14,8 @@
 
 - https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/
 
-
+### LLM Foundation Model Training
+- andrej.karpathy Nanochat on NVIDIA DGX Spark GB10 - https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/7
 
 ### Specs
 - Grace Blackwell GB10 - slimmed down B100/B200
