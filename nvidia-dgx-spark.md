@@ -1,3 +1,5 @@
+# LLM Foundation Model Training
+- andrej.karpathy Nanochat on NVIDIA DGX Spark GB10 - https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/7
 # Upgrades
 ## CUDA 13.1
 - The DGX spark came with 13.0
