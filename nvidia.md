@@ -1,6 +1,9 @@
 # NVIDIA 
 - https://www.nvidia.com/en-us/technologies/
 
+## NVIDIA Brev Cloud
+- https://brev.nvidia.com/environment/new/public
+
 ## NVIDIA HPC Multi-GPU Multi-Node Clustering
 - NVIDIA Collective Communications Library - https://developer.nvidia.com/nccl
 
