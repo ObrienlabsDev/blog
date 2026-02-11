@@ -2,6 +2,26 @@
 - https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
 - https://cloud.google.com/products?pds=CAE
 
+- PSOE - Google Certified Professional Security Operations Engineer - https://www.credly.com/badges/616b314f-e17f-4bcb-aef5-4de9ac27dd4d
+- GDA - Google Data Associate - https://www.credly.com/badges/1a7f3b48-5d5f-4b6a-a316-39bd4d380211
+- GWA - Google Workspace Associate - https://www.credly.com/badges/eadd68c6-ae8b-4527-94ba-78b06d03308e
+- ACE - Google Certified Associate Cloud Engineer - https://www.credly.com/badges/7b314aaa-2ff4-41bc-a5f3-bc172280ea58
+- PCA - Google Certified Professional Cloud Architect - https://www.credly.com/badges/65f83c1c-94ad-47c3-97b8-3899571b2893
+- GAIL - Google Certified Generative AI Leader - https://www.credly.com/badges/1524ec69-c83a-49aa-a67a-2ee5d0b75d0e
+- PMLE - Google Certified Professional Cloud Machine Learning Engineer - https://www.credly.com/badges/829da75d-8964-48d3-83a4-01212f358e1c
+- PDBE - Google Certified Professional Cloud Database Engineer - https://www.credly.com/badges/7437b99b-6c69-4d08-b155-21be874f0de8
+- PDE - Google Certified Professional Cloud Data Engineer - https://www.credly.com/badges/b067a100-03b0-45b1-b363-ca3fcbdc3bf8
+- PCDE - Google Certified Professional Cloud DevOps Engineer - https://www.credly.com/badges/61099b91-c794-4f63-947f-8e89b24896b0
+- PCSE - Google Certified Professional Cloud Security Engineer - https://www.credly.com/badges/c63222e4-ae76-4871-b8c7-14150d3a413c
+- PCNE - Google Certified Professional Cloud Network Engineer - https://www.credly.com/badges/c9f0e726-1536-4549-bfe9-080da3e28c0c
+- PCD - Google Certified Professional Cloud Developer - https://www.credly.com/badges/e160d82f-9765-40ae-99f2-3c53c7fd68b2
+- AWS-SAP - AWS Solution Architect Professional - https://www.credly.com/badges/4aa1c878-bd30-45d6-b822-44ee4df4301f
+- AWS-SAA - AWS Solution Architect Associate - https://www.credly.com/badges/3e9dfcb6-cee3-455d-a0e0-ecddc2ae7380
+- CNCF Kubernetes & Cloud Native Associate - https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/73169bc8-7b58-4eae-983c-25405d25f2a7-frank-michael-obrien-847a8f7e-d39b-4944-92e5-c1bd10b15dd8-certificate.pdf
+- CNCF Kubernetes & Cloud Native Security Associate - https://www.credly.com/badges/ab9e6146-2df5-47eb-ac77-da6f789b2665
+- Partner Certification https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
+- 
+
 ## Google Cloud Professional Architect
 - https://services.google.com/fh/files/misc/pca_renewal_exam_overview_and_faqs.pdf
 ## Google Cloud Professional Machine Learning Engineer
