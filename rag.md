@@ -49,4 +49,5 @@ Text interactions with Vertex AI Conversation - Chat Experience (services/FBC0-A
 
 - - todo: introduce RAG document additions and embeddings vector store
 
-
+## References
+- 20260213: https://docs.cloud.google.com/architecture/rag-reference-architectures
