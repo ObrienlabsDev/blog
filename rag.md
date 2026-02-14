@@ -51,3 +51,4 @@ Text interactions with Vertex AI Conversation - Chat Experience (services/FBC0-A
 
 ## References
 - 20260213: https://docs.cloud.google.com/architecture/rag-reference-architectures
+- https://medium.com/@samarrana407/lightrag-a-graphrag-alternative-636d644a05cb
