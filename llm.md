@@ -1,4 +1,7 @@
 ## LLM training
+- Nanochat on Apple, Linux, Windows equipment
+- https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/9
+
 
 ## Multi GPU and Multi Node LLM Inference
 - Pipeline Parallelism - https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
