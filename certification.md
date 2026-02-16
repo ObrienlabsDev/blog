@@ -1,5 +1,5 @@
 # Google Cloud Platform
-- https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
+- Partners can get a certification voucher for all 9 professional renewals - https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
 - https://cloud.google.com/products?pds=CAE
 
 
