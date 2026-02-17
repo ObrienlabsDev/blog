@@ -13,7 +13,7 @@
 - https://github.com/ObrienlabsDev/blog/issues/137
 - https://docs.cohere.com/docs/private-deployment-overview
 - https://www.oracle.com/customers/cohere-case-study/
-- 20260217 https://huggingface.co/collections/CohereLabs/tiny-aya
+- 20260217 https://huggingface.co/collections/CohereLabs/tiny-aya  https://www.linkedin.com/posts/joelle-pineau-371574141_linkedin-activity-7429590072674381824-pwqh?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbcDJcBZerbLCkRZCD1NFpjmVRX8P0TxA4
 
 ## Media
 - https://www.cbc.ca/mediacentre/bio/nora-young#
