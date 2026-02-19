@@ -15,4 +15,4 @@
 - DGX Spark https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/7
 - Apple Silicon https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/8
 - Windows/WSL NVIDIA https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/9
-- 
+- https://github.com/karpathy/nanochat/issues/542
