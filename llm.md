@@ -1,5 +1,6 @@
 ## LLM training
 - Nanochat on Apple, Linux, Windows equipment
+- https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/8
 - https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/9
 
 
