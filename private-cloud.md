@@ -1,2 +1,2 @@
 # private cloud: PaaS Kubernetes stack with IaaS provisioning - HA and DR
-- #172
+# https://github.com/ObrienlabsDev/blog/issues/172
