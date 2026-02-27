@@ -1,2 +1,9 @@
 # private cloud: PaaS Kubernetes stack with IaaS provisioning - HA and DR
-# https://github.com/ObrienlabsDev/blog/issues/172
+- https://github.com/ObrienlabsDev/blog/issues/172
+- https://github.com/ObrienlabsDev/secure-private-data-center
+
+
+
+# References
+- Open Nebula - https://en.wikipedia.org/wiki/OpenNebula
+- 
