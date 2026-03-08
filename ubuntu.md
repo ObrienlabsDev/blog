@@ -73,3 +73,6 @@ Sun Mar  8 16:22:04 2026
 | 30%   49C    P8              7W /  300W |       1MiB /  49140MiB |      0%      Default |
 |                                         |                        |                  N/A |
 ```
+
+### Testing CUDA
+- compile and run some of my CUDA code in https://github.com/ObrienlabsDev/fractals/blob/main/README.md#14900c-rtx-a6000-ubuntu
