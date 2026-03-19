@@ -6,4 +6,5 @@
 
 # References
 - Open Nebula - https://en.wikipedia.org/wiki/OpenNebula
-- 
+- ONAP - https://onap.org/
+- GoC/SSC Aurora - https://github.com/gccloudone-aurora including helm charts - https://github.com/gccloudone-aurora/aurora-platform-charts (not https://github.com/gccloudone/aurora)
