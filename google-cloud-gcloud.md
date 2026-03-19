@@ -12,3 +12,18 @@ michaelobrien@mbp8 gcp-bootstrap % cat ~/.config/gcloud/application_default_cred
   "universe_domain": "googleapis.com"
 }%                                          
 ```
+
+
+## Service Account Impersonation
+
+```
+export SA_PROJECT=prj-...
+gcloud config set project $SA_PROJECT
+export SA_EMAIL=sa-terraform-net@$SA_PROJECT.iam.gserviceaccount.com
+# only outside cloud shell
+gcloud auth login
+
+gcloud config set auth/impersonate_service_account $SA_EMAIL
+gcloud auth application-default login --impersonate-service-account $SA_EMAIL
+
+```
