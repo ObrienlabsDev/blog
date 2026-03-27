@@ -15,4 +15,8 @@
 - https://cloud.google.com/blog/products/infrastructure-modernization/google-distributed-cloud-edge-appliance-use-cases/
 - GDC Edge Appliance is deprecated - https://docs.cloud.google.com/distributed-cloud/edge-appliance/deprecated-notice
 - https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview
+
+
+## Lenovo Rack Servers
+- https://serverproven.lenovo.com/
 - 
