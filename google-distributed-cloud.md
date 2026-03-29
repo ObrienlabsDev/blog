@@ -1,3 +1,5 @@
+# Google Distributed Cloud
+GDC is Google's version of private or hybrid cloud within your own data center.
 # Use Cases
 - https://github.com/ObrienlabsDev/drone-streaming-extraction?tab=readme-ov-file
 - https://github.com/ObrienlabsDev/blog/wiki/Drone-Streaming-Extraction
@@ -15,8 +17,10 @@
 - https://cloud.google.com/blog/products/infrastructure-modernization/google-distributed-cloud-edge-appliance-use-cases/
 - GDC Edge Appliance is deprecated - https://docs.cloud.google.com/distributed-cloud/edge-appliance/deprecated-notice
 - https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview
+- 
 
 
-## Lenovo Rack Servers
+# Lenovo Rack Servers
+## Lenovo SR250 V3 Rack Servers for GDC
 - https://serverproven.lenovo.com/
 - 
