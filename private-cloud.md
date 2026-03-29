@@ -1,10 +1,10 @@
+# moved
+- https://github.com/ObrienlabsDev/secure-private-data-center/blob/main/README.md
 # private cloud: PaaS Kubernetes stack with IaaS provisioning - HA and DR
 - https://github.com/ObrienlabsDev/blog/issues/172
 - https://github.com/ObrienlabsDev/secure-private-data-center
 - https://github.com/ObrienlabsDev/blog/issues/174
 - https://github.com/ObrienlabsDev/blog/blob/main/google-distributed-cloud.md
-
-
 
 # References
 - Open Nebula - https://en.wikipedia.org/wiki/OpenNebula
