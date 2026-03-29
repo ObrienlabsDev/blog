@@ -1,3 +1,6 @@
+# moved
+- https://github.com/ObrienlabsDev/secure-private-data-center/blob/main/README.md
+- 
 # Google Distributed Cloud
 GDC is Google's version of private or hybrid cloud within your own data center.
 # Use Cases
