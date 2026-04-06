@@ -16,3 +16,4 @@
 ## Links
 - LLM Leaderboard - https://www.vellum.ai/open-llm-leaderboard?utm_source=google&utm_medium=organic
 - Ray - https://docs.ray.io/en/latest/data/working-with-llms.html
+- ADK - https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/
