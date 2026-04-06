@@ -65,3 +65,6 @@ linux/amd64, go1.21.5, e9c721d80
 ```
 
 kubectl logs -n kube-system -l k8s-app=kube-dns
+
+# Repos
+- https://github.com/NVIDIA/aicr
