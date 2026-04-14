@@ -21,6 +21,7 @@ GDC is Google's version of private or hybrid cloud within your own data center.
 - GDC Edge Appliance is deprecated - https://docs.cloud.google.com/distributed-cloud/edge-appliance/deprecated-notice
 - https://docs.cloud.google.com/distributed-cloud/hosted/docs/latest/appliance/overview
 - https://cloud.google.com/blog/topics/hybrid-cloud/using-gdc-sandbox-to-emulate-air-gapped-environments
+- https://docs.cloud.google.com/distributed-cloud/sandbox/latest
 
 
 # Lenovo Rack Servers
