@@ -26,4 +26,4 @@ GDC is Google's version of private or hybrid cloud within your own data center.
 # Lenovo Rack Servers
 ## Lenovo SR250 V3 Rack Servers for GDC
 - https://serverproven.lenovo.com/
-- 
+- Lenovo SR250 powerup noise levels - https://youtu.be/E6iNi3QMMcE
