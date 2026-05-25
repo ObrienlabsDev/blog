@@ -1,4 +1,5 @@
 # Canada
+- https://github.com/ObrienlabsDev/cohere-air-gapped-llm/issues/2
 - see https://github.com/ObrienlabsDev/blog/blob/main/data-residency.md#google-cloud
 - https://www.aiadoption.ca/recommendations/
 - https://github.com/nickfrosst
