@@ -4,6 +4,9 @@
 - https://github.com/ObrienlabsDev/blog/wiki
 The repository 01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 is too long (maximum is 100 characters).
 
+# Focus
+- https://github.com/GoogleDistributedCloud/GDCBareMetal
+- 
 # LinkedIn
 - https://www.linkedin.com/in/michaelobrien-developer
 - https://youtube.com/@obrienlabs?si=Aec73pKFgd8vfDNc
