@@ -1,4 +1,6 @@
 # moved
+- https://github.com/GoogleDistributedCloud/GDCBareMetal/tree/main
+- from
 - https://github.com/ObrienlabsDev/secure-private-data-center/blob/main/README.md
 - 
 # Google Distributed Cloud
