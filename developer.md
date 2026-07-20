@@ -1,3 +1,6 @@
+# Developer Guid
+- https://github.com/ObrienlabsDev/blog/wiki/Developer-Guide
+- https://github.com/ObrienlabsDev/blog/blob/main/developer.md
 # Java
 ## ARM64 support
 - https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-11
