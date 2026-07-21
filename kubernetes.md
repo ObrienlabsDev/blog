@@ -8,7 +8,11 @@ kubectl get events -A --sort-by=.lastTimestamp
 kubectl get pods -A | grep -v Running | grep -v Completed
 ```
 # Kubernetes from Scratch
-## Kubernetes on Bare Metal using kubadm
+## Kubernetes provider RKE2
+### IP change breaks kubernetes - reset etcd
+https://github.com/ObrienlabsDev/blog/issues/181#issuecomment-5037280190
+
+## Kubernetes on Bare Metal using kubeadm
 ## Kubernetes on GCP VMs
 ## Kubernetes on AWS VMs
 ## Kubernetes on Azure VMs
