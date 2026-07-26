@@ -78,6 +78,8 @@ Certificate:Upon successful completion of the assessment, you’ll receive an NV
 # Cisco
 - https://www.netacad.com/catalogs/learn
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html#accordion-126b124179-item-7335c2761d
+- - https://learningnetwork.cisco.com/s/ccst-cybersecurity-exam-topics
+  - https://learningcontent.cisco.com/documents/CCST+Cybersecurity+Objecitve+Domain_Cisco_Final_wCiscoLogo.pdf
 - https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
 
