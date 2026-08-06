@@ -1,3 +1,6 @@
+# AWS
+- AWS Solutions Architect Professional - renewal for Dec 2026 - https://github.com/ObrienlabsDev/blog/issues/194
+- 
 # Google Cloud Platform
 - Partners can get a certification voucher for all 9 professional renewals - https://rsvp.withgoogle.com/events/partner-learning/renew-your-google-cloud-certification
 - https://cloud.google.com/products?pds=CAE
@@ -6,7 +9,8 @@
 ## 20260211 - all 14 Google Cloud Certificates
 
 <img width="1193" height="1106" alt="20260211_gcp_all_14_certificates" src="https://github.com/user-attachments/assets/7afc8f1e-3ba2-49bc-902a-874493f9759f" />
-
+- GDC - Google Distributed Cloud - Air-gapped L300 - 
+- GDC - Google Distributed Cloud - Air-gapped Fundamentals - https://partner.skills.google/public_profiles/082c6bea-c2b7-4693-a709-dbe3ccf2feb0/badges/25395105
 - PSOE - Google Certified Professional Security Operations Engineer - https://www.credly.com/badges/616b314f-e17f-4bcb-aef5-4de9ac27dd4d
 - GDA - Google Data Associate - https://www.credly.com/badges/1a7f3b48-5d5f-4b6a-a316-39bd4d380211
 - GWA - Google Workspace Associate - https://www.credly.com/badges/eadd68c6-ae8b-4527-94ba-78b06d03308e
