@@ -5,6 +5,11 @@
 - 
 # Google Distributed Cloud
 GDC is Google's version of private or hybrid cloud within your own data center.
+
+## GDC Private Shadow
+
+<img width="1082" height="606" alt="Screenshot 2026-08-17 at 22 31 15" src="https://github.com/user-attachments/assets/c393928f-6416-4326-bf0e-4df4d1c84ceb" />
+
 # Use Cases
 - https://github.com/ObrienlabsDev/drone-streaming-extraction?tab=readme-ov-file
 - https://github.com/ObrienlabsDev/blog/wiki/Drone-Streaming-Extraction
