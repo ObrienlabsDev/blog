@@ -130,5 +130,11 @@ tmpfs                             tmpfs      62G  8.0K   62G   1% /tmp
 /dev/nvme0n1p1                    vfat      1.1G  6.3M  1.1G   1% /boot/efi
 tmpfs                             tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
 tmpfs                             tmpfs      13G   68K   13G   1% /run/user/60578
+
+
+## OS version
+```
+cat /etc/os-release
+```
 tmpfs                             tmpfs      13G   60K   13G   1% /run/user/1000
 ```
