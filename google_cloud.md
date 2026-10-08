@@ -22,3 +22,6 @@ I'll look for a GCP wide changelog - did see a nice one in the past - checking m
 
 ## Google Workspace
 - https://toolbox.googleapps.com/apps/checkmx/
+
+
+## Google IAP netblock: 35.235.240.0/20
