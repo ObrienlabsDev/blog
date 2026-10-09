@@ -1,3 +1,5 @@
+## Reboot Linux in firware-setup mode to get bios settings F2/F12/Delete
+sudo systemctl reboot --firmware-setup
 ## Increase LVM Logical Volume
 Extend the size to use the entire drive
 
