@@ -1,3 +1,21 @@
+# Kubernetes
+2017-2019 amdocs 1.7 via rancher, 2000-2021 oci/aws, 2021-2026 gke
+
+## Control Plane
+- etcd
+- controller-manager
+- api-server (cri, cni, csi, device plugin framework ie: gpu)
+- scheduler
+- note: admission webhooks
+- cloud-controller-manager
+
+
+
+## Worker
+- kubelet
+- dns-proxy (replace with cilium via cni)
+- 
+
 # Kubernetes CLI Nice ones
 ## get cluster events
 ```
