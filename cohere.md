@@ -2,6 +2,7 @@
 - https://gom.ai/resilience.html
 ## 20260316: DGX Spark and Cohere North
 - https://cohere.com/blog/cohere-sovereign-ai-nvidia
+- https://cohere.com/blog/open-source-model-vault
 - https://github.com/ObrienlabsDev/blog/issues/137
 
 "Today, Cohere announced it will accelerate the development of sovereign, secure, and efficient AI. As governments and regulated industries increasingly require AI systems that operate securely within national borders, Cohere is implementing key technical initiatives to deliver full‑stack solutions purpose‑built for these environments.
