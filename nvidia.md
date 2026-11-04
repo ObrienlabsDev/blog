@@ -13,6 +13,7 @@
 ## NVIDIA GB10 Arm64 DGX Spark CUDA 13 - 10p10e
 
 - https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/
+- The spark is supported on the GPU operator as part of Kai and run:ai - https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/platform-support.html
 
 ### LLM Foundation Model Training
 - andrej.karpathy Nanochat on NVIDIA DGX Spark GB10 - https://github.com/ObrienlabsDev/foundation-transformer-llm/issues/7
