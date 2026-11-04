@@ -1,6 +1,8 @@
 ## Reboot Linux in firware-setup mode to get bios settings F2/F12/Delete
 sudo systemctl reboot --firmware-setup
 ## Increase LVM Logical Volume
+ (20261103 - see full update in https://github.com/GoogleDistributedCloud/GDCBareMetal/issues/25)
+
 Extend the size to use the entire drive
 
 ```
