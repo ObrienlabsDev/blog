@@ -1,6 +1,17 @@
 # NVIDIA 
 - https://www.nvidia.com/en-us/technologies/
 
+
+## NVIDIA Training
+use incognito if you get a session error logging in
+
+two sites
+
+https://www.nvidia.com/en-us/training/academy/my-learning/
+and older
+https://learn.nvidia.com/my-learning
+
+
 ## NVIDIA Brev Cloud
 - https://brev.nvidia.com/environment/new/public
 
