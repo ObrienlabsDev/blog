@@ -44,6 +44,8 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 - 13h ML Ops Pipelines https://www.cloudskillsboost.google/course_templates/191
 - 15h Google Machine Learning Crash Course https://developers.google.com/machine-learning/crash-course
 
+# NVIDIA Certification
+- https://www.nvidia.com/en-us/learn/certification/ai-infrastructure-operations-associate/
 # NVIDIA Deep Learning Institute
 - https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web
 
