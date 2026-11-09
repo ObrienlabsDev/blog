@@ -31,6 +31,9 @@ kubectl get pods -A | grep -v Running | grep -v Completed
 https://github.com/ObrienlabsDev/blog/issues/181#issuecomment-5037280190
 
 ## Kubernetes on Bare Metal using kubeadm
+## Openshift
+https://github.com/ObrienlabsDev/blog/issues/38
+
 ## Kubernetes on GCP VMs
 ## Kubernetes on AWS VMs
 ## Kubernetes on Azure VMs
