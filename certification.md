@@ -49,7 +49,7 @@ https://www.cloudskillsboost.google/quests/117 or https://www.cloudskillsboost.g
 
 ## Instructor-Led Workshop: Deploying RAG Pipelines for Production at Scale
 
-Sunday, March 16, 09:00-17:00 PDT (UTC-07:00)
+Sunday, March 16, 09:00-17:00 PDT (UTC-07:00) 2024
 
 
 Retrieval-Augmented Generation (RAG) pipelines are revolutionizing enterprise operations. However, most existing tutorials stop at proof-of-concept implementations that falter when scaling. This workshop aims to bridge that gap, focusing on building scalable, production-ready RAG pipelines powered by NVIDIA NIM microservices and Kubernetes. You will gain hands-on experience deploying, monitoring, and scaling RAG pipelines with the NIM Operator and learn best practices for infrastructure optimization, performance monitoring, and handling high traffic volumes.
@@ -79,6 +79,14 @@ Familiarity working with Helm.
 
 Certificate:Upon successful completion of the assessment, you’ll receive an NVIDIA certificate to recognize your subject matter competency and support your professional career growth.
 
+## 2026
+use incognito if you get a session error logging in
+
+two sites
+
+https://www.nvidia.com/en-us/training/academy/my-learning/
+and older
+https://learn.nvidia.com/my-learning
 
 # Cisco
 - https://www.netacad.com/catalogs/learn
