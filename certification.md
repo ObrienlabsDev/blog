@@ -90,6 +90,9 @@ https://www.nvidia.com/en-us/training/academy/my-learning/
 and older
 https://learn.nvidia.com/my-learning
 
+# Redhat
+- https://www.redhat.com/en/services/training/all-courses-exams?f[0]=taxonomy_training_tid:28261
+
 # Cisco
 - https://www.netacad.com/catalogs/learn
 - https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html#accordion-126b124179-item-7335c2761d
