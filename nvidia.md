@@ -11,6 +11,11 @@ https://www.nvidia.com/en-us/training/academy/my-learning/
 and older
 https://learn.nvidia.com/my-learning
 
+### 202611
+- https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-10+V1
+- https://www.nvidia.com/en-us/training/academy/course-detail/?id=course%3A15139820
+- 
+
 
 ## NVIDIA Brev Cloud
 - https://brev.nvidia.com/environment/new/public
