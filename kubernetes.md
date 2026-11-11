@@ -32,7 +32,10 @@ https://github.com/ObrienlabsDev/blog/issues/181#issuecomment-5037280190
 
 ## Kubernetes on Bare Metal using kubeadm
 ## Openshift
-https://github.com/ObrienlabsDev/blog/issues/38
+- https://github.com/ObrienlabsDev/blog/issues/38
+### Option 1: install CRC on top of RHEL
+### Option 2: wipe drive as part of RHCOS
+- no RHEL license required
 
 ## Kubernetes on GCP VMs
 ## Kubernetes on AWS VMs
