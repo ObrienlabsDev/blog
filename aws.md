@@ -1,3 +1,8 @@
+# AWS Emulation
+- https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
+- https://github.com/aws/aws-emulator
+- 
+
 ## EKS Extended Support Costs
 - https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/
 ## Secret Key rotation
