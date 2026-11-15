@@ -281,7 +281,7 @@ kube-system   kube-proxy-h2ttb               1/1     Running   0          21h
 
 ## Openshift for GPUs
 - https://github.com/ObrienlabsDev/blog/issues/38
-- moved to 
+- moved to https://github.com/ObrienlabsDev/blog/blob/main/openshift.md and https://github.com/ObrienlabsDev/blog/issues/227
 
 ### Option 1: install CRC on top of RHEL
 ### Option 2: wipe drive as part of RHCOS
