@@ -3,10 +3,14 @@
 
 ## Openshift for GPU scheduling/fractioning
 - https://github.com/ObrienlabsDev/blog/issues/227
-- 
-## Option 1: install CRC on top of RHEL
+
+## Option 1: OKD
+- not the same as full openshift
+## Option 2: install Openshift Local (formerly CRC) on top of RHEL
+- replaced by Openshift Local
+- https://developers.redhat.com/products/openshift-local/overview
 ## Option 2: wipe drive as part of RHCOS
-- no RHEL license required
+- no RHEL license required - 60 day eval
 - we will use option 2
 
 ## Single Node Openshift - SNO
