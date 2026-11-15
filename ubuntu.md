@@ -8,6 +8,8 @@ vi ~/.bashrc
    59  sudo apt install maven
 ```
 ## CUDA
+- https://github.com/ObrienlabsDev/blog/blob/main/nvidia.md
+- 
 On 14900k based RTX-A6000
 https://docs.nvidia.com/cuda/cuda-installation-guide-linux/
 
