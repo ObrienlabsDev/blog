@@ -31,11 +31,6 @@ kubectl get pods -A | grep -v Running | grep -v Completed
 https://github.com/ObrienlabsDev/blog/issues/181#issuecomment-5037280190
 
 ## Kubernetes on Bare Metal using kubeadm
-## Openshift
-- https://github.com/ObrienlabsDev/blog/issues/38
-### Option 1: install CRC on top of RHEL
-### Option 2: wipe drive as part of RHCOS
-- no RHEL license required
 
 ## Kubernetes on GCP VMs
 ## Kubernetes on AWS VMs
@@ -283,6 +278,14 @@ kube-system   kube-proxy-h2ttb               1/1     Running   0          21h
 ## Azure
 ## IBM Redhat Openshift Container Platform
 - Latest 4.12
+
+## Openshift for GPUs
+- https://github.com/ObrienlabsDev/blog/issues/38
+- moved to 
+
+### Option 1: install CRC on top of RHEL
+### Option 2: wipe drive as part of RHCOS
+- no RHEL license required
 
 ### OCP Training
 - https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview
