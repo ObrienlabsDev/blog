@@ -1,6 +1,8 @@
 # NVIDIA 
 - https://www.nvidia.com/en-us/technologies/
 
+# CUDA
+- Cuda on Ubuntu - https://github.com/ObrienlabsDev/blog/blob/main/ubuntu.md#cuda
 
 ## NVIDIA Training
 use incognito if you get a session error logging in
