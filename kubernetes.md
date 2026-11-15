@@ -45,7 +45,7 @@ https://github.com/ObrienlabsDev/blog/issues/181#issuecomment-5037280190
 
 
 
-# Kubernetes
+# WIKI 2024 - Kubernetes
 - Kubernetes / AWS Architecture Platform - https://github.com/ObrienlabsDev/kubernetes-aws-platform-infra
 
 # My Kubernetes Issues on the CNCF
