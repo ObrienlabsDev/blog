@@ -1,5 +1,10 @@
 # Ubuntu installation
 
+past releases - https://releases.ubuntu.com/24.04/?C=S;O=D
+- https://releases.ubuntu.com/24.04/ubuntu-24.04.5.1-desktop-amd64.iso
+- https://releases.ubuntu.com/24.04/ubuntu-24.04.5-live-server-amd64.iso
+- 
+
 ```
 sudo ubuntu-drivers install
  sudo apt install net-tools
