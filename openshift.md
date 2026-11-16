@@ -49,6 +49,12 @@ download ISO
 
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/installing_an_on-premise_cluster_with_the_agent-based_installer/installing-ove
 
+burn ISO to 128G usb drive with Rufus
+
+<img width="463" height="650" alt="image" src="https://github.com/user-attachments/assets/ea894da9-910d-4afb-be09-a4f48791264d" />
+
+<img width="1255" height="574" alt="image" src="https://github.com/user-attachments/assets/9ff29362-f5d5-44e8-a188-fc4f5a572961" />
+
 
 
 # Links
