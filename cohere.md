@@ -1,6 +1,7 @@
 #
 - https://gom.ai/resilience.html
 ## 20260316: DGX Spark and Cohere North
+- https://private.docs.cohere.com/docs/deployment-overview
 - https://cohere.com/blog/cohere-sovereign-ai-nvidia
 - https://cohere.com/blog/open-source-model-vault
 - https://github.com/ObrienlabsDev/blog/issues/137
