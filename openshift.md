@@ -105,6 +105,19 @@ eno1	10:e1:8e:b4:92:6f	192.168.0.100/24	2607:fea8:e367:3900::5593/64, 2607:fea8:
 eno2	10:e1:8e:b4:92:70	10.3.0.102/16		1000 Mbps
 ```
 
+20261118:1500
+- need to delete all partitions on drives first - sdc first
+
+
+```
+This host failed its installation.
+Failed - failed after 3 attempts, last error: failed executing /usr/bin/nsenter [--target 1 --cgroup --mount --ipc --pid -- coreos-installer install --insecure -i /opt/openshift/master.ign --append-karg ip=10-e1-8e-b4-92-6f:dhcp /dev/sdc], Error exit status 1, LastOutput "Error: checking for exclusive access to /dev/sdc Caused by: found busy partitions".
+
+Writing image to disk
+Step 4 of 8
+
+```
+
 
 # Links
 - https://
