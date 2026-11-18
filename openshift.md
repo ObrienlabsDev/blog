@@ -58,6 +58,13 @@ burn ISO to 128G usb drive with Rufus
 
 ### Install on SR250
 
+### Set DNS A record
+
+### Switch to web interface
+
+http://192.168.0.100:3001/3ea3c05b-0f65-4ee4-85fd-53b876328cd3
+
+
 ```
 Host details
 UUID
