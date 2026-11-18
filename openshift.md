@@ -55,6 +55,9 @@ burn ISO to 128G usb drive with Rufus
 
 <img width="1255" height="574" alt="image" src="https://github.com/user-attachments/assets/9ff29362-f5d5-44e8-a188-fc4f5a572961" />
 
+### Preflight
+- do not pull out the usb drive mid install - it is still used for validation and the cluster will need to be reset or the node will need to be powered down - wait 5 min
+- 
 
 ### Install on SR250
 
