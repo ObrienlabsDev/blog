@@ -106,8 +106,7 @@ eno2	10:e1:8e:b4:92:70	10.3.0.102/16		1000 Mbps
 ```
 
 20261118:1500
-- need to delete all partitions on drives first - sdc first
-
+- need to delete all partitions on drives first - sdc first - or it looks like the iso needs to be written to the main drive 
 
 ```
 This host failed its installation.
