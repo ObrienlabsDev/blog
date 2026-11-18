@@ -56,6 +56,45 @@ burn ISO to 128G usb drive with Rufus
 <img width="1255" height="574" alt="image" src="https://github.com/user-attachments/assets/9ff29362-f5d5-44e8-a188-fc4f5a572961" />
 
 
+### Install on SR250
+
+```
+Host details
+UUID
+d61e4c9c-006e-e8d0-3459-e2e38e74de32
+Manufacturer
+Lenovo
+Product
+ThinkSystem SR250 V3
+Serial number
+JZ019GTL
+Memory capacity
+32.00 GiB
+CPU model name
+Intel(R) Xeon(R) 6325P
+CPU cores and clock speed
+8 cores (hyper-threaded) at 0 MHz
+CPU architecture
+x86_64
+Hardware type
+Bare metal
+BMC address
+10.2.0.108
+Boot mode
+uefi
+NTP status
+Synced
+4 Disks
+Name	Role	Limitations	Drive type	Size	Serial	Model	WWN 
+sda (bootable)	Installation disk		HDD	124.62 GB	A053081900000F5F	USB_Flash_Drive	0x5000000000000001
+sdb (bootable)	None		SSD	960.20 GB	0026051W0X7N	SSSTC_ER3-CD960A	0x538f60161097b716
+sdc (bootable)	None		SSD	2.00 TB	S753NL0Y208735W	Samsung_SSD_870	0x5002538f552202b1
+NICs
+Name	MAC address	IPv4 address	IPv6 address	Speed
+eno1	10:e1:8e:b4:92:6f	192.168.0.100/24	2607:fea8:e367:3900::5593/64, 2607:fea8:e367:3900:b0a9:cb61:4c8b:b232/64	1000 Mbps
+eno2	10:e1:8e:b4:92:70	10.3.0.102/16		1000 Mbps
+```
+
 
 # Links
 - https://
