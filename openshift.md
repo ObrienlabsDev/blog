@@ -117,6 +117,20 @@ Step 4 of 8
 
 ```
 
+Fix: switch installation disk after cluster reset to SDC - from usb SDA in storage screen
+
+```
+Name	Role	Limitations	Format?	Drive type	Size	Serial	Model	WWN 
+sda (bootable)	
+None
+	HDD	124.62 GB	A053081900000F5F	USB_Flash_Drive	0x5000000000000001
+sdb	
+None
+	SSD	960.20 GB	0026051W0X7N	SSSTC_ER3-CD960A	0x538f60161097b716
+sdc	Installation disk			SSD	2.00 TB	S753NL0Y208735W	Samsung_SSD_870	0x5002538f552202b1
+
+```
+
 
 # Links
 - https://
