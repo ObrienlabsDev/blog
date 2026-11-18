@@ -131,6 +131,11 @@ sdc	Installation disk			SSD	2.00 TB	S753NL0Y208735W	Samsung_SSD_870	0x5002538f55
 
 ```
 
+add your ssh public key
+```
+cat ~/.ssh/id_gdc_oldev.pub         
+ssh-ed25519 AAAA...al
+```
 
 # Links
 - https://
