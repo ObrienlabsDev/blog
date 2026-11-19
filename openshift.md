@@ -1,6 +1,9 @@
 # Openshift
 - https://github.com/ObrienlabsDev/blog/issues/38
 
+# Cohere North on Openshift
+- https://private.docs.cohere.com/docs/advanced/feature-enablement/sandbox-openshift
+
 ## Openshift for GPU scheduling/fractioning
 - https://github.com/ObrienlabsDev/blog/issues/227
 
