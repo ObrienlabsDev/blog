@@ -137,6 +137,9 @@ cat ~/.ssh/id_gdc_oldev.pub
 ssh-ed25519 AAAA...al
 ```
 
+It looks like pulling the usb after rebooting - allows the RHEL os to not throw USB ISO errors
+
+
 # Links
 - https://
 - developers.redhat.com/products
