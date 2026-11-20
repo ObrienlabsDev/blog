@@ -4,12 +4,10 @@
 # NVIDIA and Openshift
 
 follow
-https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/introduction.html
-
-https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/nvaie-with-ocp.html
-
-https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/install-gpu-ocp.html#install-nvidiagpu
-
+- https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/introduction.html
+- https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/nvaie-with-ocp.html
+- https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/install-gpu-ocp.html#install-nvidiagpu
+- https://docs.nvidia.com/pdf/installing-openshift-on-dgx.pdf
 
 
 # Cohere North on Openshift
