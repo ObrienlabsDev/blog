@@ -1,6 +1,9 @@
 # Openshift
 - https://github.com/ObrienlabsDev/blog/issues/38
 
+# NVIDIA and Openshift
+- https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/introduction.html?utm_source=chatgpt.com
+
 # Cohere North on Openshift
 - https://private.docs.cohere.com/docs/advanced/feature-enablement/sandbox-openshift
 
