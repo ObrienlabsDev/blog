@@ -2,7 +2,15 @@
 - https://github.com/ObrienlabsDev/blog/issues/38
 
 # NVIDIA and Openshift
-- https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/introduction.html?utm_source=chatgpt.com
+
+follow
+https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/introduction.html
+
+https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/nvaie-with-ocp.html
+
+https://docs.nvidia.com/datacenter/cloud-native/openshift/latest/install-gpu-ocp.html#install-nvidiagpu
+
+
 
 # Cohere North on Openshift
 - https://private.docs.cohere.com/docs/advanced/feature-enablement/sandbox-openshift
