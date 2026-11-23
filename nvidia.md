@@ -4,6 +4,8 @@
 # NVIDIA NPN
 
 # NVIDIA NGC
+- application hub - https://nvid.nvidia.com/login
+- https://org.ngc.nvidia.com/subscriptions
 - https://catalog.ngc.nvidia.com/
 - https://catalog.ngc.nvidia.com/orgs/nvidia/-/collections/nvidia-ai-enterprise-infra-7/-
 
