@@ -8,6 +8,7 @@
 - https://org.ngc.nvidia.com/subscriptions
 - https://catalog.ngc.nvidia.com/
 - https://catalog.ngc.nvidia.com/orgs/nvidia/-/collections/nvidia-ai-enterprise-infra-7/-
+- https://catalog.ngc.nvidia.com/orgs/nvidia/runai/collections/run-ai-self-hosted/-?_lr=1
 
 # CUDA
 - Cuda on Ubuntu - https://github.com/ObrienlabsDev/blog/blob/main/ubuntu.md#cuda
