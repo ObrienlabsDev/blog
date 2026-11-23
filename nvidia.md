@@ -1,6 +1,12 @@
 # NVIDIA 
 - https://www.nvidia.com/en-us/technologies/
 
+# NVIDIA NPN
+
+# NVIDIA NGC
+- https://catalog.ngc.nvidia.com/
+- https://catalog.ngc.nvidia.com/orgs/nvidia/-/collections/nvidia-ai-enterprise-infra-7/-
+
 # CUDA
 - Cuda on Ubuntu - https://github.com/ObrienlabsDev/blog/blob/main/ubuntu.md#cuda
 
