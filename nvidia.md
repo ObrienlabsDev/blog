@@ -58,7 +58,7 @@ https://learn.nvidia.com/my-learning
 
 - 
 ### Links
-
+- https://resources.nvidia.com/en-us-dgx-h100/the-blueprint-for-ai-success-ebook/?ncid=pa-srch-goog-418226
 - https://github.com/ObrienlabsDev/performance/issues/45
 - https://github.com/ObrienlabsDev/machine-learning/issues/47
 - https://github.com/ObrienlabsDev/machine-learning/issues/48
