@@ -180,6 +180,31 @@ Failed Units: 1
 
 ```
 
+### Set api.server DNS A record
+in your domain add api.server pointing to your VIP on your domain
+
+also set *.apps.sno.ocp and api-int.p17
+### kubectl or oc to ocp
+
+download oc from https://www.redhat.com/en/blog/installing-oc-tools-windows
+
+```
+kubectl get nodes --kubeconfig ~/.kube/p17/kubeconfig
+
+$ export KUBECONFIG=~/.kube/p17/kubeconfig
+$ kubectl get nodes
+NAME                STATUS   ROLES                         AGE     VERSION
+54-05-db-52-24-6c   Ready    control-plane,master,worker   6d22h   v1.35.8
+
+micha@p1gen6 MINGW64 ~
+$ oc get nodes
+NAME                STATUS   ROLES                         AGE     VERSION
+54-05-db-52-24-6c   Ready    control-plane,master,worker   6d22h   v1.35.8
+
+
+
+```
+
 # Links
 - https://
 - developers.redhat.com/products
