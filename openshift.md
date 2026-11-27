@@ -151,6 +151,34 @@ ssh-ed25519 AAAA...al
 
 It looks like pulling the usb after rebooting - allows the RHEL os to not throw USB ISO errors
 
+## RHCOS on P17
+- used ssh key
+
+ssh
+
+```
+ssh core@192.168.0.188   
+The authenticity of host '192.168.0.188 (192.168.0.188)' can't be established.
+ED25519 key fingerprint is: SHA256:BvGeg342vpOShFVNExwypM2n7Y58gublX1OT3Kq2LU0
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '192.168.0.188' (ED25519) to the list of known hosts.
+Red Hat Enterprise Linux CoreOS 9.8.20261006-0
+  Part of OpenShift 4.22, RHCOS is a Kubernetes-native operating system
+  managed by the Machine Config Operator (`clusteroperator/machine-config`).
+
+WARNING: Direct SSH access to machines is not recommended; instead,
+make configuration changes via `machineconfig` objects:
+  https://docs.openshift.com/container-platform/4.22/architecture/architecture-rhcos.html
+
+---
+Last login: Fri Nov 20 03:12:53 2026 from 192.168.0.132
+[systemd]
+Failed Units: 1
+  systemd-network-generator.service
+
+
+```
 
 # Links
 - https://
