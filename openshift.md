@@ -31,6 +31,13 @@ follow
 ## Equipment
 - see devices.yaml - I will be using the Lenovo SR250 blade for non-GPU testing and a spare Lenovo P17 RTX-5000/TU-104 for GPU testing before going pre-production using an RTX-A6000/GA-102
 
+
+### Lenovo P17 - RTX-5000
+- 54-05-db-52-24-6c
+### Lenovo SR250v3 - RTX-A1000
+-
+
+
 ### Get trial 60 day licence
 - https://www.redhat.com/en/technologies/cloud-computing/openshift/ocp-self-managed-trial
 - Use the assisted installer https://docs.redhat.com/en/documentation/assisted_installer_for_openshift_container_platform/2026/html/installing_openshift_container_platform_with_the_assisted_installer/index
